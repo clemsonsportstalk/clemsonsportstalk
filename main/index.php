@@ -2,8 +2,8 @@
 <?php startblock('main') ?>
 <div class='line'>
 	<div class='unit size1of2 clemson-news'>
-		<h2>Clemson New</h2>
-		<div id='vokle_embed_lineup_16444_container'><script type="text/javascript" src="//api.vokle.com/embed/lineup/16444?width=364"></script></div><br />  
+		<h2>Clemson News</h2>
+		<div id='vokle_embed_lineup_16444_container'><script type="text/javascript" src="//api.vokle.com/embed/lineup/16444?width=364"></script></div><br />
             <div class='txtC'>
 			<?php readfile('http://output38.rssinclude.com/output?type=php&id=23477&hash=dade9ae00c751781408cfbc3c296249f')?>
 		</div>
@@ -17,7 +17,7 @@
 		<div class='line'>
 			<div class='unit size2of3 extras'>
 				<h2>Previous Episodes</h2>
-				              
+
                 <ul class='episodes'>
 					<li>
 						<a class='clemsonhotline-latest' href='#' data-feed='http://clemson.libsyn.com/rss'>
@@ -35,12 +35,12 @@
 					</iframe>
                 <br>
 				<h2>Listen On The Go</h2>
-				           
+
                 <div class='pam'>
 					<a href='http://landing.stitcher.com/?vurl=CLEMSONPODCASTS'>
 							<img src="../_images/bug_300x250.jpg" width="230" height="230">
 						</a>Promo Code: CLEMSONPODCASTS
- 
+
 				</div>
 				<h2>Blog</h2>
 				<div align='center'>
