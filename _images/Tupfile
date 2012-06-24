@@ -1,0 +1,12 @@
+include_rules
+
+: |> convert -size 225x5 xc:#eee \
+	-size 365x5 xc:#fff \
+	-size 243x5 xc:#eee \
+	-size 122x5 xc:#ddd \
+	+append %o |> bg.jpg
+
+: |> convert -size 225x5 xc:#eee \
+	-size 608x5 xc:#fff \
+	-size 122x5 xc:#ddd \
+	+append %o |> bg-alt.jpg

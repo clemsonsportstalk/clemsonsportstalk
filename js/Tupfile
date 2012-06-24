@@ -1,0 +1,4 @@
+
+include_rules
+
+: jquery.tmpl.min.js jquery.cycle.lite.min.js home.js |> !minjs |> _home.js

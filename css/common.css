@@ -1,0 +1,284 @@
+@charset "UTF-8";
+img {
+  border: none; }
+
+.center {
+  margin: 0 auto; }
+
+body, p, td {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 8.5pt;
+  color: #000; }
+
+body {
+  background: #663399 url(/_images/bgrd_main.jpg) no-repeat top center;
+  margin: 0; }
+
+a:link, a:visited, a:active, a:hover {
+  color: #639;
+  text-decoration: underline; }
+
+a:hover {
+  color: #ff5f01;
+  text-decoration: underline; }
+
+li {
+  margin: 0; }
+
+ul {
+  padding: 0 0 0 15px;
+  margin: 0 0 0 15px;
+  list-style-type: disc;
+  list-style-position: outside; }
+
+.footer {
+  color: #361b52;
+  line-height: 14px;
+  font-size: 7pt;
+  text-align: right;
+  margin: 10px 4px 15px 0; }
+  .footer a, .footer a:link, .footer a:visited, .footer a:active {
+    color: #3a1d58;
+    text-decoration: none; }
+  .footer a:hover {
+    color: #ff5f01;
+    text-decoration: none; }
+
+ul.shows, ul.links, ul.episodes {
+  list-style-type: none;
+  margin: 0;
+  padding: 5px; }
+  ul.shows li, ul.links li, ul.episodes li {
+    border-top: solid 1px transparent;
+    padding: 6px; }
+  ul.shows li:first-child, ul.links li:first-child, ul.episodes li:first-child {
+    border-top: none; }
+  ul.shows a, ul.links a, ul.episodes a {
+    display: block; }
+
+ul.shows {
+  background: #ffd1b7; }
+  ul.shows li {
+    border-top-color: #ffc29d; }
+  ul.shows li:hover {
+    background: #ffc29d; }
+  ul.shows a, ul.shows a:link, ul.shows a:visited, ul.shows a:active {
+    text-decoration: none;
+    font-size: 8.5pt;
+    color: #639;
+    font-weight: bold; }
+
+ul.links, ul.episodes {
+  background: #e1e1e1; }
+  ul.links li, ul.episodes li {
+    border-top-color: #d2d2d2; }
+  ul.links li:hover, ul.episodes li:hover {
+    background: #d2d2d2; }
+  ul.links a, ul.links a:link, ul.links a:visited, ul.links a:active, ul.episodes a, ul.episodes a:link, ul.episodes a:visited, ul.episodes a:active {
+    text-decoration: none;
+    font-size: 8.5pt;
+    color: #639;
+    font-weight: bold; }
+
+.tweets {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+  line-height: 1.25em; }
+  .tweets li {
+    padding: 7px 10px;
+    border-bottom: dashed 1px #666; }
+    .tweets li span {
+      font-family: georgia, 'times new roman', serif;
+      font-style: italic; }
+
+.donate {
+  margin: 0;
+  background: #e1e1e1;
+  text-align: center; }
+
+.slideshow {
+  height: 148px;
+  overflow: hidden;
+  border-top: solid 8px #ff5f01; }
+
+/* nav */
+ul.nav {
+  list-style-type: none;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  width: 729px;
+  height: 28px;
+  background: #639;
+  border-bottom: solid 3px #fa6200; }
+  ul.nav li {
+    display: block;
+    float: left;
+    border-bottom: solid 1px #fff; }
+  ul.nav a {
+    margin: 3px 1px 0 1px;
+    padding: 0px;
+    border: 0;
+    text-transform: uppercase;
+    display: block;
+    height: 24px;
+    float: left;
+    font-family: orbitron, serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+    color: #fff;
+    text-align: center;
+    line-height: 27px;
+    text-decoration: none;
+    -moz-transition-property: all;
+    -webkit-transition-property: all;
+    -o-transition-property: all;
+    transition-property: all;
+    -moz-transition-duration: 0.1s;
+    -webkit-transition-duration: 0.1s;
+    -o-transition-duration: 0.1s;
+    transition-duration: 0.1s;
+    -moz-transition-timing-function: ease-in-out;
+    -webkit-transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out;
+    -moz-transition-delay: 0;
+    -webkit-transition-delay: 0;
+    -o-transition-delay: 0;
+    transition-delay: 0;
+    text-shadow: white 0 0 12px; }
+  ul.nav li.active, ul.nav li:hover {
+    border-bottom: solid 1px #fa6200; }
+    ul.nav li.active a, ul.nav li:hover a {
+      background-color: #fa6200;
+      color: #000;
+      -moz-border-radius-topleft: 3px;
+      -webkit-border-top-left-radius: 3px;
+      -o-border-top-left-radius: 3px;
+      -ms-border-top-left-radius: 3px;
+      -khtml-border-top-left-radius: 3px;
+      border-top-left-radius: 3px;
+      -moz-border-radius-topright: 3px;
+      -webkit-border-top-right-radius: 3px;
+      -o-border-top-right-radius: 3px;
+      -ms-border-top-right-radius: 3px;
+      -khtml-border-top-right-radius: 3px;
+      border-top-right-radius: 3px; }
+
+.nav-home {
+  width: 67px; }
+
+.nav-tnt {
+  width: 124px; }
+
+.nav-hotline {
+  width: 157px; }
+
+.nav-radio {
+  width: 150px; }
+
+.nav-blog {
+  width: 62px; }
+
+.nav-itunes {
+  width: 75px; }
+
+.nav-about {
+  width: 80px; }
+
+/* misc */
+a.logo-right {
+  display: block;
+  height: 99px;
+  text-indent: -9999px; }
+
+a.logo {
+  display: block;
+  height: 205px;
+  text-indent: -9999px; }
+
+.side-nav {
+  width: 225px; }
+
+.header-bg {
+  background: url(/_images/header.jpg) no-repeat; }
+
+.bg {
+  background: url(/_images/bg.jpg); }
+
+.bg-alt {
+  background: url(/_images/bg-alt.jpg); }
+
+h2 {
+  margin: 0;
+  padding: 5px;
+  text-transform: uppercase;
+  font-family: orbitron, serif;
+  font-size: 10px;
+  text-shadow: white 0 0 12px;
+  letter-spacing: 2px; }
+
+h3 {
+  color: #639;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0 0 2px 0;
+  text-transform: uppercase; }
+
+.about h2, .radio h2, .clemson-news h2, .sponsors h2 {
+  background: #3c1f59;
+  color: #fff; }
+
+.extras h2 {
+  background: #bebebe;
+  color: #000; }
+
+.side-nav h2 {
+  background: #ff5f01;
+  color: #000; }
+
+.foot hr {
+  height: 3px;
+  background: #ff5e04;
+  border: solid 1px #e8e8e8;
+  border-left: none;
+  border-right: none; }
+
+.gs955 {
+  width: 955px; }
+
+.about {
+  font-family: verdana, arial, helvetica; }
+
+.about p, .radio p, .radio table {
+  line-height: 19px; }
+
+.podcasts-banner {
+  padding: 0;
+  width: 100%; }
+
+.extras {
+  background: #eee; }
+
+.sponsors {
+  background: #ddd;
+  text-align: center; }
+
+.video object, .video embed {
+  width: 100%;
+  height: 216px; }
+
+.tnt .podcast {
+  background: #eee; }
+
+table.affiliates {
+  width: 100%;
+  border: 0; }
+  table.affiliates th {
+    background: #eee;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: left; }
+  table.affiliates tr.zebra td {
+    background: #fee; }
