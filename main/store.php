@@ -35,7 +35,9 @@
 </form>
 <p>
 <img src="../_images/pitchfork_sales.jpg" width="500" height="375" /></p>
-    <p><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+    <p> &nbsp;The History of the Pitchfork: &quot;They have the Chicken Curse, which was put upon them by Clemson's Ben &quot;Pitchfork&quot; Tillman, because the Legislature of South Carolina didn't want Clemson to exist. Tillman and Thomas Greene Clemson (among others) fought tooth and nail to create a land grant institution for the state's poor farmers. Because of Tillman's frustration over the Legislature's snub, he slammed a pitchfork into the ground of South Carolina's campus and declared them &quot;cursed.&quot;&quot;-ESPN  
+        <a href="http://espn.go.com/page2/s/list/readers/worstCollegefb.html">http://espn.go.com/page2/s/list/readers/worstCollegefb.html</a>
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <table>
 <tr><td><input type="hidden" name="on0" value="Sizes">Pitchfork T-Shirt Sizes</td></tr><tr><td><select name="os0">
