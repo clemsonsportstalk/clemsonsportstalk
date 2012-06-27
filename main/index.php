@@ -100,6 +100,11 @@
 								<td>@</td>
 								<td><a href='http://espn.go.com/college-football/team/_/id/150/duke-blue-devils'>Duke</a></td>
 							</tr>
+                            <tr>
+								<td>11/10/12</td>
+								<td>vs</td>
+								<td><a href='http://espn.go.com/college-football/team/_/id/120/maryland-terrapins'>Maryland</a></td>
+							</tr>
 							<tr>
 								<td>11/17/12</td>
 								<td>vs</td>
