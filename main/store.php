@@ -23,8 +23,11 @@
 <input type="hidden" name="cmd" value="_s-xclick">
 <table>
 <tr><td><input type="hidden" name="on0" value="Sizes">Clemson Podcasts T-Shirt Sizes</td></tr><tr><td><select name="os0">
-	<option value="S-M-L-XL">S-M-L-XL$15.00 USD</option>
-	<option value="XXL">XXL$17.00 USD</option>
+	<option value="Small">Small $15.00 USD</option>
+    <option value="Medium">Medium $15.00 USD</option>
+    <option value="Large">Large $15.00 USD</option>
+    <option value="X-Large">X-Large $15.00 USD</option>
+	<option value="XXL">XXL $17.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
@@ -41,8 +44,11 @@
 <input type="hidden" name="cmd" value="_s-xclick">
 <table>
 <tr><td><input type="hidden" name="on0" value="Sizes">Pitchfork T-Shirt Sizes</td></tr><tr><td><select name="os0">
-	<option value="S-M-L-XL">S-M-L-XL$15.00 USD</option>
-	<option value="XXL">XXL$17.00 USD</option>
+	<option value="Small">Small $15.00 USD</option>
+    <option value="Medium">Medium $15.00 USD</option>
+    <option value="Large">Large $15.00 USD</option>
+    <option value="X-Large">X-Large $15.00 USD</option>
+	<option value="XXL">XXL $17.00 USD</option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Colors">Colors</td></tr><tr><td><select name="os1">
 	<option value="White">White</option>
