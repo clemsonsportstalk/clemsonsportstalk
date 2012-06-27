@@ -8,7 +8,7 @@
 		<h2>Tiger Store</h2>
 
 		<div class='pam'>
-			<p align="left">Clemson Podcasts is committed to our fans and we are going to give you Clemson themed t-shirts that you can't find anywhere else on the internet. Please support our show by purchasing one or both of these Clemson Podcast originals!</p>
+			<p align="left">Clemson Podcasts is committed to our fans and we are going to give you Clemson themed t-shirts that you can't find anywhere else on the internet. Please support our show by purchasing one or both of these Clemson Podcast originals! We need your help to spread the word about our shows.</p>
 <p align="left">Feel free to contact us at the email address below if you have any interest in being a sponsor of our website or programs. We look forward to creating a relationship with your company that can take your product line to the masses.</p>
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -18,11 +18,11 @@
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-<p align="left"><img src="../../../../AppData/Roaming/Adobe/Dreamweaver 9/Configuration/ServerConnections/Clemson Podcasts/www.clemsonpodcasts.com/web/content/_images/clemsonpodcasts_sales.jpg" width="800" height="600" /></p>
+<p align="left"><img src="../_images/clemsonpodcasts_sales.jpg" width="500" height="375" /></p>
 <p align="left"><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <table>
-<tr><td><input type="hidden" name="on0" value="Sizes">Sizes</td></tr><tr><td><select name="os0">
+<tr><td><input type="hidden" name="on0" value="Sizes">Clemson Podcasts T-Shirt Sizes</td></tr><tr><td><select name="os0">
 	<option value="S-M-L-XL">S-M-L-XL$15.00 USD</option>
 	<option value="XXL">XXL$17.00 USD</option>
 </select> </td></tr>
@@ -33,14 +33,12 @@
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
 <p>
-  </p>
-    <img src="../../../../AppData/Roaming/Adobe/Dreamweaver 9/Configuration/ServerConnections/Clemson Podcasts/www.clemsonpodcasts.com/web/content/_images/pitchfork_sales.jpg" width="800" height="600" /></p>
-<p><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<img src="../_images/pitchfork_sales.jpg" width="500" height="375" /></p>
+    <p><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <table>
-<tr><td><input type="hidden" name="on0" value="Sizes">Sizes</td></tr><tr><td><select name="os0">
+<tr><td><input type="hidden" name="on0" value="Sizes">Pitchfork T-Shirt Sizes</td></tr><tr><td><select name="os0">
 	<option value="S-M-L-XL">S-M-L-XL$15.00 USD</option>
 	<option value="XXL">XXL$17.00 USD</option>
 </select> </td></tr>
