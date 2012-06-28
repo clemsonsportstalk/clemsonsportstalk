@@ -3,7 +3,8 @@
 <div class='line'>
 	<div class='unit size1of2 clemson-news'>
 		<h2>Clemson News</h2>
-		<div id='vokle_embed_lineup_16444_container'><script type="text/javascript" src="//api.vokle.com/embed/lineup/16444?width=364"></script></div><br />
+		<iframe width="364" height="273" src="http://www.youtube.com/embed/wcMTETKmnpA" frameborder="0" allowfullscreen></iframe>
+        <!--<div id='vokle_embed_lineup_16444_container'><script type="text/javascript" src="//api.vokle.com/embed/lineup/16444?width=364"></script></div><br /> -->
             <div class='txtC'>
 			<?php readfile('http://output38.rssinclude.com/output?type=php&id=23477&hash=dade9ae00c751781408cfbc3c296249f')?>
 		</div>
@@ -34,8 +35,9 @@
                 <iframe src='http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.clemsonpodcasts.com+&amp;layout=button_count&amp;show_faces=true&amp;width=185&amp;action=like&amp;colorscheme=dark&amp;height=50' scrolling='no' frameborder='0' style='border:none; overflow:hidden; width:185px; height:50px;' allowTransparency='true'>
 					</iframe>
                 <br>
-				<h2>Listen On The Go</h2>
-
+				<h2>Chirbits</h2>
+<iframe src="http://chirb.it/wp/tpxO2e" width=230 scrolling="NO" frameborder=0>If you can not see this chirbit, listen to it here http://chirb.it/tpxO2e</iframe><br/>
+<a href="http://chirb.it/tpxO2e" title="Clemson Podcasts: DaQuan Bowers on Robert Nkemdiche | social audio" style="font-family:helvetica,arial,sans-serif;font-size:8pt;text-align:left;margin:5px;">Check this out on Chirbit</a>
                 <div class='pam'>
 					<a href='http://landing.stitcher.com/?vurl=CLEMSONPODCASTS'>
 							<img src="../_images/bug_300x250.jpg" width="230" height="230">
