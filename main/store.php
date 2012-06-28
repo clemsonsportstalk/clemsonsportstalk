@@ -57,7 +57,7 @@
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Colors">Colors</td></tr><tr><td><select name="os1">
 	<option value="White">White</option>
-	<option value="Gray">Gray</option>
+	<option value="Gray">Heather Gray</option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on2" value="Pitchfork Returns T-Shirt">Pitchfork Returns T-Shirt</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
 </table>
