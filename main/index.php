@@ -33,15 +33,15 @@
 				</ul>
 				<h2>Social Media</h2>
                 <iframe src='http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.clemsonpodcasts.com+&amp;layout=button_count&amp;show_faces=true&amp;width=185&amp;action=like&amp;colorscheme=dark&amp;height=50' scrolling='no' frameborder='0' style='border:none; overflow:hidden; width:185px; height:50px;' allowTransparency='true'>
-					</iframe>
+			  </iframe>
                 <br>
-				<h2>Chirbits</h2>
-<iframe src="http://chirb.it/wp/tpxO2e" width=230 scrolling="NO" frameborder=0>If you can not see this chirbit, listen to it here http://chirb.it/tpxO2e</iframe><br/>
-<a href="http://chirb.it/tpxO2e" title="Clemson Podcasts: DaQuan Bowers on Robert Nkemdiche | social audio" style="font-family:helvetica,arial,sans-serif;font-size:8pt;text-align:left;margin:5px;">Check this out on Chirbit</a>
-                <div class='pam'>
+			  <h2>Audio Clips</h2>
+                <div align="center">
+              <iframe src="http://chirb.it/wp/tpxO2e" width=230 scrolling="NO" frameborder=0>If you can not see this chirbit, listen to it here http://chirb.it/tpxO2e</iframe><br/>
+                <div class='pam'></div>
 					<a href='http://landing.stitcher.com/?vurl=CLEMSONPODCASTS'>
 							<img src="../_images/bug_300x250.jpg" width="230" height="230">
-						</a>Promo Code: CLEMSONPODCASTS
+				  </a>Promo Code: CLEMSONPODCASTS
 
 				</div>
 				<h2>Blog</h2>
