@@ -42,6 +42,9 @@
 
 <p>
 <img src="../_images/pitchfork_sales.jpg" width="500" height="375" /></p>
+  <p> The History of the Pitchfork: &quot;They have the Chicken Curse, which was put upon them by Clemson's Ben &quot;Pitchfork&quot; Tillman, because the Legislature of South Carolina didn't want Clemson to exist. Tillman and Thomas Greene Clemson (among others) fought tooth and nail to create a land grant institution for the state's poor farmers. Because of Tillman's frustration over the Legislature's snub, he slammed a pitchfork into the ground of South Carolina's campus and declared them &quot;cursed.&quot;&quot;-ESPN  
+        <a href="http://espn.go.com/page2/s/list/readers/worstCollegefb.html">http://espn.go.com/page2/s/list/readers/worstCollegefb.html</a>
+    </p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <table>
@@ -65,11 +68,6 @@
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-
-
-    <p> The History of the Pitchfork: &quot;They have the Chicken Curse, which was put upon them by Clemson's Ben &quot;Pitchfork&quot; Tillman, because the Legislature of South Carolina didn't want Clemson to exist. Tillman and Thomas Greene Clemson (among others) fought tooth and nail to create a land grant institution for the state's poor farmers. Because of Tillman's frustration over the Legislature's snub, he slammed a pitchfork into the ground of South Carolina's campus and declared them &quot;cursed.&quot;&quot;-ESPN  
-        <a href="http://espn.go.com/page2/s/list/readers/worstCollegefb.html">http://espn.go.com/page2/s/list/readers/worstCollegefb.html</a>
-    </p>
 <p align="center">  Email: <a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a></p>
 			
 				<div align="center">All designs are original and belong to Clemson Podcasts.</div>
