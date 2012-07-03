@@ -32,19 +32,19 @@
 					</li>
 				</ul>
 				<h2>Social Media</h2>
-                <iframe src='http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.clemsonpodcasts.com+&amp;layout=button_count&amp;show_faces=true&amp;width=185&amp;action=like&amp;colorscheme=dark&amp;height=50' scrolling='no' frameborder='0' style='border:none; overflow:hidden; width:185px; height:50px;' allowTransparency='true'>
-			  </iframe>
-                <br>
-			  <h2>Audio Clips</h2>
-                <div align="center">
-              <iframe src="http://chirb.it/wp/tpxO2e" width=230 scrolling="NO" frameborder=0>If you can not see this chirbit, listen to it here http://chirb.it/tpxO2e</iframe><br/>
+                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/clemsonpodcasts&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe><br />
+                                <a href="http://www.facebook.com/clemsonpodcasts"><img src="../_images/Icons/facebook.png" longdesc="Facebook" /></a> <a href="http://twitter.com/clemsonpodcasts"><img src="../_images/Icons/twitter.png" longdesc="Twitter" /></a> <a href="http://www.google.com/reader/public/atom/user/03107298055788933099/bundle/Clemson Tigers"><img src="../_images/Icons/RSS.png" longdesc="RSS" /></a> <a href="http://youtube.com/elswannmedia"><img src="../_images/Icons/youtube.png" longdesc="YouTube" /></a> <img src="../_images/Icons/linkedin.png" />
+              <h2>Audio Clips</h2>
+                <div align="center">Listen to some recent clips using your smart phone and a QR Code Reader.
+                <img src=" http://www.chirbit.com/tpxO2e.qrcode" width="75" height="75">
+              <br/>
                 <div class='pam'></div>
 					<a href='http://landing.stitcher.com/?vurl=CLEMSONPODCASTS'>
 							<img src="../_images/bug_300x250.jpg" width="230" height="230">
-				  </a>Promo Code: CLEMSONPODCASTS
+				  </a>Promo Code: <strong>CLEMSONPODCASTS</strong>
 
 				</div>
-				<h2>Blog</h2>
+			  <h2>Blog</h2>
 				<div align='center'>
 					<?php readfile('http://output18.rssinclude.com/output?type=php&id=48304&hash=4be9aa3b660508b4f4bbf268e3efb36f')?>
 				</div>
