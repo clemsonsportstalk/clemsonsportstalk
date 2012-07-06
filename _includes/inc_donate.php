@@ -1,18 +1,12 @@
 <h2>Social Media</h2>
 <div class='donate pam'>
-  <a href="http://www.facebook.com/clemsonpodcasts">
-    <img src="../_images/Icons/facebook.png" width="30" height="30" longdesc="Facebook" />
-  </a>
-  <a href="http://twitter.com/clemsonpodcasts">
-    <img src="../_images/Icons/twitter.png" width="30" height="30" longdesc="Twitter" />
-  </a>
-  <a href="http://www.google.com/reader/public/atom/user/03107298055788933099/bundle/Clemson Tigers">
-    <img src="../_images/Icons/RSS.png" width="30" height="30" longdesc="RSS" />
-  </a>
-  <a href="http://youtube.com/elswannmedia">
+  <p><a href="http://www.facebook.com/clemsonpodcasts">
+    <img src="../_images/Icons/facebook.png" width="30" height="30" longdesc="Facebook" /></a> <a href="http://www.twitter.com/clemsonpodcasts">
+    <img src="../_images/Icons/twitter.png" width="30" height="30" longdesc="RSS" /> </a><a href="http://www.google.com/reader/public/atom/user/03107298055788933099/bundle/Clemson Tigers">
+    <img src="../_images/Icons/RSS.png" width="30" height="30" longdesc="RSS" /> </a><a href="http://youtube.com/elswannmedia"> 
     <img src="../_images/Icons/you-tube-logo.jpg" width="78" height="30" longdesc="YouTube" />
-  </a>
-</div>
+      </a></p>
+  </div>
 <h2>Advertising</h2>
 <ul class='links'>
   <li><a href='/main/ads.php'>Advertising Information</a></li>
