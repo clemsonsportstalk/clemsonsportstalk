@@ -3,7 +3,7 @@
 <div class='line'>
 	<div class='unit size1of2 clemson-news'>
 		<h2>Clemson News</h2>
-		<iframe width="364" height="273" src="http://www.youtube.com/embed/wcMTETKmnpA" frameborder="0" allowfullscreen></iframe>
+		<iframe width="364" height="287" src="http://www.youtube.com/embed/videoseries?list=PL3D744B1217B8325A&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
         <!--<div id='vokle_embed_lineup_16444_container'><script type="text/javascript" src="//api.vokle.com/embed/lineup/16444?width=364"></script></div><br /> -->
             <div class='txtC'>
 			<?php readfile('http://output38.rssinclude.com/output?type=php&id=23477&hash=dade9ae00c751781408cfbc3c296249f')?>
@@ -17,11 +17,7 @@
 	<div class='unit size1of2'>
 		<div class='line'>
 			<div class='unit size2of3 extras'>
-				<h2>Social Media</h2>
-            
-                                <a href="http://www.facebook.com/clemsonpodcasts"><img src="../_images/Icons/facebook.png" width="30" height="30" longdesc="Facebook" /></a> <a href="http://twitter.com/clemsonpodcasts"><img src="../_images/Icons/twitter.png" width="30" height="30" longdesc="Twitter" /></a> <a href="http://www.google.com/reader/public/atom/user/03107298055788933099/bundle/Clemson Tigers"><img src="../_images/Icons/RSS.png" width="30" height="30" longdesc="RSS" /></a> <a href="http://youtube.com/elswannmedia"><img src="../_images/Icons/you-tube-logo.jpg" width="78" height="30" longdesc="YouTube" /></a>  
-                                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/clemsonpodcasts&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe> 
-              <h2>Previous Episodes</h2>
+				<h2>Previous Episodes</h2>
 
                 <ul class='episodes'>
 					<li>
@@ -35,16 +31,14 @@
 						</a>
 					</li>
 				</ul>
-              <h2>Audio Clips</h2>
+             <h2>Like Us On Facebook</h2>
+                                   
+                                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/clemsonpodcasts&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe> 
                 <div align="center">Listen to some recent clips using your smart phone and a QR Code Reader.
                 <img src=" http://www.chirbit.com/tpxO2e.qrcode" width="75" height="75">
-              <br/>
+              
                 <div class='pam'></div>
-					<a href='http://landing.stitcher.com/?vurl=CLEMSONPODCASTS'>
-							<img src="../_images/bug_300x250.jpg" width="230" height="230">
-				  </a>Promo Code: <strong>CLEMSONPODCASTS</strong>
-
-				</div>
+									</div>
 			  <h2>Blog</h2>
 				<div align='center'>
 					<?php readfile('http://output18.rssinclude.com/output?type=php&id=48304&hash=4be9aa3b660508b4f4bbf268e3efb36f')?>
