@@ -17,7 +17,11 @@
 	<div class='unit size1of2'>
 		<div class='line'>
 			<div class='unit size2of3 extras'>
-				<h2>Previous Episodes</h2>
+				<h2>Social Media</h2>
+            
+                                <a href="http://www.facebook.com/clemsonpodcasts"><img src="../_images/Icons/facebook.png" width="30" height="30" longdesc="Facebook" /></a> <a href="http://twitter.com/clemsonpodcasts"><img src="../_images/Icons/twitter.png" width="30" height="30" longdesc="Twitter" /></a> <a href="http://www.google.com/reader/public/atom/user/03107298055788933099/bundle/Clemson Tigers"><img src="../_images/Icons/RSS.png" width="30" height="30" longdesc="RSS" /></a> <a href="http://youtube.com/elswannmedia"><img src="../_images/Icons/you-tube-logo.jpg" width="78" height="30" longdesc="YouTube" /></a>  
+                                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/clemsonpodcasts&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe> 
+              <h2>Previous Episodes</h2>
 
                 <ul class='episodes'>
 					<li>
@@ -31,9 +35,6 @@
 						</a>
 					</li>
 				</ul>
-				<h2>Social Media</h2>
-                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/clemsonpodcasts&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe><br />
-                                <a href="http://www.facebook.com/clemsonpodcasts"><img src="../_images/Icons/facebook.png" longdesc="Facebook" /></a> <a href="http://twitter.com/clemsonpodcasts"><img src="../_images/Icons/twitter.png" longdesc="Twitter" /></a> <a href="http://www.google.com/reader/public/atom/user/03107298055788933099/bundle/Clemson Tigers"><img src="../_images/Icons/RSS.png" longdesc="RSS" /></a> <a href="http://youtube.com/elswannmedia"><img src="../_images/Icons/youtube.png" longdesc="YouTube" /></a> <img src="../_images/Icons/linkedin.png" />
               <h2>Audio Clips</h2>
                 <div align="center">Listen to some recent clips using your smart phone and a QR Code Reader.
                 <img src=" http://www.chirbit.com/tpxO2e.qrcode" width="75" height="75">
