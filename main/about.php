@@ -5,7 +5,7 @@
 <?php startblock('main') ?>
 <div class='line'>
 	<div class='unit size4of5 about'>
-		<h2>about</h2>
+		<h2>About</h2>
 		<div class='pam'>
 			<h3>Clemson Podcasts History</h3>
 			<p>
@@ -46,24 +46,13 @@
 				affiliates around the state of South Carolina. Many Tiger fans in South
 				Carolina are in our listening area throughout the week. Check out our
 				affiliates page for more information on finding our show on your radio
-				dial. A podcast addition of both shows is also available in Itunes.
-			</p>
-			<p>
-				To subscribe to my shows simply go to the iTunes Store, and search for
-				&ldquo;Clemson&rdquo;, &ldquo;Clemson Tigers&rdquo;, &ldquo;Clemson
-				Hotline&rdquo;, or &ldquo;TigerNet Talk&rdquo;. You will see the
-				TNT/Clemson Hotline podcast icons. Click on the &ldquo;Subscribe&rdquo;
-				button, and this will automatically download each week&rsquo;s episode to
-				your iTunes Podcasts folder (upper left corner, under
-				&lsquo;Library&rsquo;).
-			</p>
-			<p>
-				Are you interested in advertising on our show or website? Please contact us
+				dial. A podcast addition of both shows is also available in Itunes.			</p>
+			<p>In 2012 El Swann Media made the decision to start broadcasting TigerNet Talk and Clemson Hotline LIVE on the internet for fans of the shows. After evaluating the different services available, we felt like <a href="www.vokle.com">Vokle</a> met our needs the best. Since debuting on Vokle, El Swann Media has climbed into the top ten and currently sits at #2 on the charts. </p>
+			<p>If you interested in advertising on our show or website? Please contact us
 				to discuss pricing and availability.
 				<br>
-				Email <a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a>
-			</p>
-		</div>
+				Email <a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a>			</p>
+	  </div>
 	</div>
 	<div class='unit size1of5 sponsors'>
 		<h2>Sponsors</h2>

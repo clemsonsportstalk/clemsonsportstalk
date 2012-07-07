@@ -11,7 +11,9 @@
 		<h2>Latest Episodes</h2>
 		<img class='podcasts-banner' src='/_images/banner.jpg' alt='Clemson Podcasts'>
 		<div class='pam'>
-			<script type='text/javascript' src='http://app.feed.informer.com/digest3/SXQXHYZENN.js'></script>
+			<script type="text/javascript" src="http://app.feed.informer.com/digest3/SXQXHYZENN.js"></script>
+<noscript><a href="http://app.feed.informer.com/digest3/SXQXHYZENN.html">Click for &quot;&quot;.</a>
+Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
 		</div>
 	</div>
 	<div class='unit size1of2'>

@@ -4,18 +4,19 @@
 <?php endblock() ?>
 <?php startblock('main') ?>
 <div class='line'>
-	<div class='unit size4of5 radio'>
+<div class='unit size4of5 radio'>
 		<h2>Radio Affiliates</h2>
 
 		<div class='pam'>
-			<h3>Affiliates 2009-2010</h3>
-			<table class='affiliates' cellspacing='0' cellpadding='4'>
+			<h3>Affiliates 2012-2013</h3>
+            <strong>WE ARE CURRENTLY GATHERING AFFILIATES FOR THE UPCOMING YEAR!			</strong>
+<table class='affiliates' cellspacing='0' cellpadding='4'>
 				<tr>
-					<th>City</th>
-					<th>Station</th>
-					<th>Frequency</th>
-				</tr>
-				<tr>
+					<th><div align="center">City</div></th>
+					<th><div align="center">Station</div></th>
+					<th><div align="center">Frequency</div></th>
+				</tr></table>
+	      <!--<tr>
 					<td>Allendale</td>
 					<td>WDOG-FM</td>
 					<td>93.5 FM</td>
@@ -75,22 +76,48 @@
 					<td>WAGL-AM</td>
 					<td>1560 AM</td>
 				</tr>
-			</table>
-			<p>
-				<strong>Subscribe to TigerNet Talk or Clemson Hotline in iTunes [FREE].</strong>
-			</p>
-			<p>
-				Go to the iTunes Store, and search for &ldquo;Clemson,&rdquo; or
-				&ldquo;Clemson Tigers,&rdquo; or &ldquo;Clemson Hotline&rdquo;, or
-				&ldquo;TigerNet Talk&rdquo;. You will see the TNT/Clemson Hotline
-				podcast icons. Click on the &ldquo;Subscribe&rdquo; button, and
-				this will automatically download each week&rsquo;s episode to your
-				iTunes Podcasts folder (upper left corner, under
-				&lsquo;Library&rsquo;).
-			</p>
+			<-->
+			<p><br />
+            If you don't see one of your local stations on our list you can listen to our shows a number of different ways.
+            <table class='affiliates' cellspacing='0' cellpadding='4'>
+				<tr>
+					<th width="137"><div align="center">Source</div></th>
+				  <th width="224"><div align="center">Link</div></th>
+                  <th width="453"><div align="center">How?</div></th>
+			  </tr>
+				<tr>
+					<td>Itunes</td>
+				  <td><a href="http://itunes.apple.com/us/podcast/tigernet-talk-tnt/id79900679">TigerNet Talk</a>	
+                    &amp; <a href="http://itunes.apple.com/us/podcast/clemson-hotline/id272184586">Clemson Hotline</a>
+					<td>Make sure you subscribe to our podcasts and sync weekly to stay informed on the latest out of Clemson.</td>
+                    <td width="1"></td>
+			  </tr>
+				<tr class='zebra'>
+					<td>Stitcher Smart Radio</td>
+					<td><a href="http://www.stitcher.com/listen.php?fid=19425">TigerNet Talk</a> & <a href="http://www.stitcher.com/listen.php?fid=10084">Clemson Hotline</a></td>
+                    <td>Stitcher Smart Radio is an app for your smart phone. This app requires no syncing to keep up with our programming. Use the PROMO CODE: CLEMSONPODCASTS for your shot at $100.			  </td>
+				<tr>
+					<td>Vokle</td>
+					<td><a href="http://www.vokle.com/series/16444-tigernet-talk-slash-clemson-hotline">TigerNet Talk &amp; Clemson Hotline</a></td>
+                    <td>Tune in to Vokle to watch TigerNet Talk and Clemson Hotline LIVE. Lawton takes all your calls, tweets, emails, and live text questions on the #2 rated show on Vokle.			  </td>
+			  </tr>
+				<tr class='zebra'>
+					<td>YouTube</td>
+					<td><a href="http://www.youtube.com/playlist?list=PL3D744B1217B8325A">TigerNet Talk</a> & Clemson Hotline</td> 
+                    <td>High quality archived versions of TigerNet Talk and Clemson Hotline are uploaded after the show wraps.			  </td>
+			  </tr>
+		  </table>
+				<p>Frequently Asked Questions:</p>
+				<p><strong>How can I take part in the LIVE show?</strong> </p>
+		  <p><strong>Phone:</strong> 1-803-450-0086 
+          <p><strong>Tweet:</strong> to hashtag #TNTalk or @clemsonpodcasts          
+          <p> <strong>Email: </strong>clemson81@gmail.com   
+          <p><strong>
+          Can I still be a part of the show if I listen to the podcast editions?</strong></p>
+            <p> You know it! We won't leave anyone out of the discussions. You can participate in the program 24 hours a day, 7 days a week. The phone lines are always up and running. If you listen to the podcast version and you want your voice heard give us a call, tweet, or email. </p>
 		</div>
-	</div>
-	<div class='unit size1of5 sponsors'>
+  </div>
+<div class='unit size1of5 sponsors'>
 		<h2>Sponsors</h2>
 		<?php require_once('../_includes/inc_google_ads_rt.php'); ?>
 	</div>
