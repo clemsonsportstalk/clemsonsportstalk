@@ -15,12 +15,10 @@ body {
   margin: 0; }
 
 a:link, a:visited, a:active, a:hover {
-  color: #639;
-  text-decoration: underline; }
+  color: #639; }
 
 a:hover {
-  color: #ff5f01;
-  text-decoration: underline; }
+  color: #ff5f01; }
 
 li {
   margin: 0; }
@@ -282,3 +280,5 @@ table.affiliates {
     text-align: left; }
   table.affiliates tr.zebra td {
     background: #fee; }
+
+.img-link { text-decoration: none; }
