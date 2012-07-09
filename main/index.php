@@ -36,9 +36,11 @@ Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
              <h2>Like Us On Facebook</h2>
                                    
                                 <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/clemsonpodcasts&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe> 
-                <div align="center">Listen to some recent clips using your smart phone and a QR Code Reader.
-                <img src=" http://www.chirbit.com/tpxO2e.qrcode" width="75" height="75">
-              
+                <div align="center">Listen to some recent audio clips.<p>
+                <a href="http://chirb.it/cHItGe">
+              Lawton joins B.J Bennett on The Drive to talk Robert Nkemdiche                </a><p>
+              <a href="http://chirb.it/tpxO2e">
+              Clip from Da'Quan Bowers talking Robert Nkemdiche on TigerNet Talk #141.                </a>
                 <div class='pam'></div>
 									</div>
 			  <h2>Blog</h2>

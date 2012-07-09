@@ -64,7 +64,7 @@
 </form>
 <hr onblur/>
 <p><img src="../_images/Rock_Solid_sales.jpg" width="500" height="375" /></p>
-<p>If you're not going to give 110% keep your filth hands of my shirt. Celebrate Clemson's &quot;Rock&quot; Solid tradition wearing this shirt at the tailgate with your crew.</p>
+<p>If you're not going to give 110% keep your filthy hands off my shirt. Celebrate Clemson's &quot;Rock&quot; Solid tradition wearing this shirt at the tailgate with your crew.</p>
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="PG432JAWM562J">
@@ -84,7 +84,7 @@
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-<hr onblur/>
+<hr onblur/><!--
 <img src="../_images/1-1-82_Sales_copy.jpg" width="500" height="375" /><p>
 This "Retro" Tee takes you back to the greatest day in Clemson football history. Celebrate the National Title every time you sport one of our 80's tees. </p>
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -105,9 +105,9 @@ This "Retro" Tee takes you back to the greatest day in Clemson football history.
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+</form>-->
 <hr onblur/>
-<img src="../_images/pitchfork_sales_new.jpg" width="500" height="375" /><a name="Pitchfork"></a><!--<A HREF="#Pitchfork">Go To Pitchfork Shirt</A><BR><-->
+<img src="../_images/pitchfork_sales_new.jpg" width="500" height="375" /><a name="Pitchfork"></a>><BR>
 <p> On November 24, 2012 Clemson will host South Carolina to put an end to the Gamecocks first three game winning streak in 40 years. Get your pitchfork ready! Celebrate Ben Tillman's pitchfork returning for the 2012 season.
 <p> The History of the Pitchfork: &quot;They have the Chicken Curse, which was put upon them by Clemson's Ben &quot;Pitchfork&quot; Tillman, because the Legislature of South Carolina didn't want Clemson to exist. Tillman and Thomas Greene Clemson (among others) fought tooth and nail to create a land grant institution for the state's poor farmers. Because of Tillman's frustration over the Legislature's snub, he slammed a pitchfork into the ground of South Carolina's campus and declared them &quot;cursed.&quot;&quot;-ESPN  
         <a href="http://espn.go.com/page2/s/list/readers/worstCollegefb.html">http://espn.go.com/page2/s/list/readers/worstCollegefb.html</a>

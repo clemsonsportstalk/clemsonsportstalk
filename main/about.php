@@ -47,10 +47,10 @@
 				Carolina are in our listening area throughout the week. Check out our
 				affiliates page for more information on finding our show on your radio
 				dial. A podcast addition of both shows is also available in Itunes.			</p>
-			<p>In 2012 El Swann Media made the decision to start broadcasting TigerNet Talk and Clemson Hotline LIVE on the internet for fans of the shows. After evaluating the different services available, we felt like <a href="www.vokle.com">Vokle</a> met our needs the best. Since debuting on Vokle, El Swann Media has climbed into the top ten and currently sits at #2 on the charts. </p>
-			<p>If you interested in advertising on our show or website? Please contact us
+			<p>In 2012 El Swann Media made the decision to start broadcasting TigerNet Talk and Clemson Hotline LIVE on the internet for fans of our shows. After evaluating the different services available, we felt like <a href="http://www.vokle.com">Vokle</a> met our needs the best. Since debuting on Vokle, El Swann Media has climbed into the top ten and currently sits at #2 on the charts. </p>
+		  <p>If you interested in advertising on our show or website. Please contact us
 				to discuss pricing and availability.
-				<br>
+		<br>
 				Email <a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a>			</p>
 	  </div>
 	</div>
