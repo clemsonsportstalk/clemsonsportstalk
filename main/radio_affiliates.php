@@ -110,8 +110,10 @@
 				<p>Frequently Asked Questions:</p>
 				<p><strong>How can I take part in the LIVE show?</strong> </p>
 		  <p><strong>Phone:</strong> 1-803-450-0086 
-          <p><strong>Tweet:</strong> to hashtag #TNTalk or @clemsonpodcasts          
-          <p> <strong>Email: </strong>clemson81@gmail.com   
+          <p><strong>Twitter:</strong> Tweet to hashtag #TNTalk or @clemsonpodcasts          
+          <p> <strong>Email: </strong><a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a>   
+          <p><strong>Vokle: </strong>If you 
+          watch the show live on <a href="http://www.vokle.com">Vokle</a> we take your text questions during the program.
           <p><strong>
           Can I still be a part of the show if I listen to the podcast editions?</strong></p>
             <p> You know it! We won't leave anyone out of the discussions. You can participate in the program 24 hours a day, 7 days a week. The phone lines are always up and running. If you listen to the podcast version and you want your voice heard give us a call, tweet, or email. </p>
