@@ -3,8 +3,8 @@
 <div class='line'>
 	<div class='unit size1of2 clemson-news'>
 		<h2>Clemson News</h2>
-		<iframe width="364" height="287" src="http://www.youtube.com/embed/videoseries?list=PL3D744B1217B8325A&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
-        <!--<div id='vokle_embed_lineup_16444_container'><script type="text/javascript" src="//api.vokle.com/embed/lineup/16444?width=364"></script></div><br /> -->
+		<iframe width="364" height="287" src="http://www.youtube.com/embed/videoseries?list=PL3D744B1217B8325A&amp;hl=en_US" frameborder="0" allowfullscreen></iframe> 
+        <!--<div id='vokle_embed_lineup_16444_container'><script type="text/javascript" src="//api.vokle.com/embed/lineup/16444?width=364"></script></div><br />-->
             <div class='txtC'>
 			<?php readfile('http://output38.rssinclude.com/output?type=php&id=23477&hash=dade9ae00c751781408cfbc3c296249f')?>
 		</div>
@@ -92,7 +92,7 @@ Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
 								<td><a href='http://espn.go.com/college-football/team/_/id/259/virginia-tech-hokies'>Virginia Tech</a></td>
 							</tr>
 							<tr>
-								<td>10/27/12</td>
+								<td>10/25/12</td>
 								<td>@</td>
 								<td><a href='http://espn.go.com/college-football/team/_/id/154/wake-forest-demon-deacons'>Wake Forest</a></td>
 							</tr>
