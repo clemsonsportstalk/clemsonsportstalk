@@ -1,10 +1,10 @@
-<h2>Our Links</h2>
+<h2>Our Sponsors</h2>
 <ul class='links'>
-	<li><a href='http://www.youtube.com/elswannmedia/' target='_blank'>YouTube Channel</a></li>
 	<li><a href='http://www.tigernet.com' target='_blank'>Tigernet</a></li>
-	<li><a href='http://www.clemsontigers.com/' target='_blank'>Clemson Tigers</a></li>
-  <li><a href='http://www.edistooutdoors.com' target='_blank'>Edisto Outdoors</a></li>
-	<li><a href='http://www.yall.com/' target='_blank'>Y'all Magazine</a></li>
-	<li><a href='http://www.backyardstudios.net/' target='_blank'>Backyard Studios</a></li>
-	<li><a href='http://www.sandlapperstudio.com/' target='_blank'>Sandlapper Studio</a></li>
-</ul>
+	<li><a href='http://www.edistooutdoors.com/' target='_blank'>Edisto Outdoors</a></li>
+    <li><a href='http://www.peacefuldentistry.com/' target='_blank'>Gentle Dentistry</a></li>
+	<li><a href='http://www.doodycalls.com/pooper_scooper_south_carolina_columbia.asp' target='_blank'>Doody Calls</a></li>
+    <li><a href='http://www.fudogmedia.com' target='_blank'>Fu Dog Media</a></li>
+    <li><a href='http://www.crosscreektimber.com' target='_blank'>Cross Creek Timber</a></li>
+   
+	</

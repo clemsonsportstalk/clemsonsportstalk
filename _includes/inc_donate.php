@@ -15,7 +15,7 @@
 </div>
 <h2>Advertising</h2>
 <ul class='links'>
-  <li><a href='/main/ads.php'>Advertising Information</a></li>
+  <li><a href='/main/ads.php'>Become A Sponsor</a></li>
 </ul>
 <div class='donate pam'>
 	<form class='pam' action='https://www.paypal.com/cgi-bin/webscr' method='post'>
