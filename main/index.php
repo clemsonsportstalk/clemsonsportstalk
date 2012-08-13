@@ -3,6 +3,8 @@
 <div class='line'>
 	<div class='unit size1of2 clemson-news'>
 		<h2>Clemson News</h2>
+        
+        
 		<iframe width="364" height="287" src="http://www.youtube.com/embed/videoseries?list=PL3D744B1217B8325A&amp;hl=en_US" frameborder="0" allowfullscreen></iframe> 
         <!--<div id='vokle_embed_lineup_16444_container'><script type="text/javascript" src="//api.vokle.com/embed/lineup/16444?width=364"></script></div><br />-->
             <div class='txtC'>
