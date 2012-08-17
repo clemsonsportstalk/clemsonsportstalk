@@ -129,8 +129,8 @@ Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
 					<ul class='tweets'>
 					</ul>
 					<p class='txtC'>
-						<a href='http://www.twitter.com/clemsonpodcasts'>
-							<img src='http://twitter-badges.s3.amazonaws.com/follow_me-c.png' alt='Follow clemsonpodcasts on Twitter'>
+						<a href='http://www.twitter.com/ClemsonSports'>
+							<img src='http://twitter-badges.s3.amazonaws.com/follow_me-c.png' alt='Follow Clemson Sports on Twitter'>
 						</a>
 					</p>
 				</div>
