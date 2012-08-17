@@ -12,7 +12,7 @@
 				The goal of this site is to offer informative Clemson sports talk as well as
 				links to Clemson sports news from around the web. The information found on the
 				Clemson News section is updated multiple times daily via our
-				<a href="http://twitter.com/clemsonpodcasts">twitter feed</a>.
+				<a href="http://twitter.com/clemsonsports">twitter feed</a>.
 				While our blog is updated frequently, we pride ourselves in bringing Clemson
 				news to fans around the world as quickly as possible.
 				<img src="../_images/dford.lswann.jpg" name="Lawton Swann and Danny Ford" width="200" height="184" align="right">

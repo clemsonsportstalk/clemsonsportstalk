@@ -87,7 +87,7 @@
 			  </tr>
 				<tr>
 					<td>Itunes</td>
-				  <td><a href="http://itunes.apple.com/us/podcast/tigernet-talk-tnt/id79900679">TigerNet Talk</a>	
+				  <td><a href="http://itunes.apple.com/us/podcast/tigernet-talk-tnt/id79900679">TigerNet Talk</a>
                     &amp; <a href="http://itunes.apple.com/us/podcast/clemson-hotline/id272184586">Clemson Hotline</a>
 					<td>Make sure you subscribe to our podcasts and sync weekly to stay informed on the latest out of Clemson.</td>
                     <td width="1"></td>
@@ -103,16 +103,16 @@
 			  </tr>
 				<tr class='zebra'>
 					<td>YouTube</td>
-					<td><a href="http://www.youtube.com/playlist?list=PL3D744B1217B8325A">TigerNet Talk</a> & Clemson Hotline</td> 
+					<td><a href="http://www.youtube.com/playlist?list=PL3D744B1217B8325A">TigerNet Talk</a> & Clemson Hotline</td>
                     <td>High quality archived versions of TigerNet Talk and Clemson Hotline are uploaded after the show wraps.			  </td>
 			  </tr>
 		  </table>
 				<p>Frequently Asked Questions:</p>
 				<p><strong>How can I take part in the LIVE show?</strong> </p>
-		  <p><strong>Phone:</strong> 1-803-450-0086 
-          <p><strong>Twitter:</strong> Tweet to hashtag #TNTalk or @clemsonpodcasts          
-          <p> <strong>Email: </strong><a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a>   
-          <p><strong>Vokle: </strong>If you 
+		  <p><strong>Phone:</strong> 1-803-450-0086
+          <p><strong>Twitter:</strong> Tweet to hashtag #TNTalk or @clemsonsports
+          <p> <strong>Email: </strong><a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a>
+          <p><strong>Vokle: </strong>If you
           watch the show live on <a href="http://www.vokle.com">Vokle</a> we take your text questions during the program.
           <p><strong>
           Can I still be a part of the show if I listen to the podcast editions?</strong></p>

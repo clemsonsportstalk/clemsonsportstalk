@@ -3,7 +3,7 @@
   <a class='img-link' href="http://www.facebook.com/clemsonpodcasts">
     <img src="../_images/Icons/facebook.png" width="30" height="30" longdesc="Facebook" />
   </a>
-  <a class='img-link' href="http://twitter.com/clemsonpodcasts">
+  <a class='img-link' href="http://twitter.com/clemsonsports">
     <img src="../_images/Icons/twitter.png" width="30" height="30" longdesc="Twitter" />
   </a>
   <a class='img-link' href="http://www.google.com/reader/public/atom/user/03107298055788933099/bundle/Clemson Tigers">

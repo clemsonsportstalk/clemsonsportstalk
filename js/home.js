@@ -61,7 +61,7 @@ jQuery(function($) {
 		/*
 		twttr.anywhere(function(t) {
 			t.hovercards();
-			t('.follow-button').followButton('clemsonpodcasts');
+			t('.follow-button').followButton('clemsonsports');
 		});
 		*/
 	});

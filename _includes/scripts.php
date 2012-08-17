@@ -1,9 +1,9 @@
-<script id='twitterTmpl' data-url='http://api.twitter.com/1/statuses/user_timeline/clemsonpodcasts.json?count=8&callback=?' type='text/html'>
+<script id='twitterTmpl' data-url='http://api.twitter.com/1/statuses/user_timeline/clemsonsports.json?count=8&callback=?' type='text/html'>
 <li>
 	{{html body}}
 	<br>
 	<span>
-		<a href='http://twitter.com/clemsonpodcasts/status/${id}' data-created-at='${created_at}'></a>
+		<a href='http://twitter.com/clemsonsports/status/${id}' data-created-at='${created_at}'></a>
 		via {{html source}}
 	</span>
 </li>
