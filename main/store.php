@@ -19,28 +19,7 @@
 </form>
 
 <br />
-<p align="left"><img src="../_images/clemsonpodcasts_sales.jpg" width="500" height="375" /></p>
-<p>Clemson Podcasts T-Shirt-
-  Support our Clemson sports programs with the purchase of a Clemson Podcasts T-Shirt. We appreciate all your support throughout the years. Let Clemson Tiger fans know about our unique programs that bring Clemson sports talk to Tiger fans around the globe.</p><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="ZEV29AS6LNG6C">
-<table>
-<tr><td><input type="hidden" name="on0" value="Sizes">Clemson Podcasts Shirt Sizes</td></tr><tr><td><select name="os0">
-	<option value="Youth- Small">Youth- Small$15.00 USD</option>
-	<option value="Youth- Medium">Youth- Medium$15.00 USD</option>
-	<option value="Youth- Large">Youth- Large$15.00 USD</option>
-	<option value="Adult- Small">Adult- Small$15.00 USD</option>
-	<option value="Adult- Medium">Adult- Medium$15.00 USD</option>
-	<option value="Adult- Large">Adult- Large$15.00 USD</option>
-	<option value="Adult- X-Large">Adult- X-Large$15.00 USD</option>
-	<option value="Adult- XX-Large">Adult- XX-Large$17.00 USD</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-<hr onblur/>
+ <hr onblur/>
 <p><img src="../_images/OnTheProwl_sales.jpg" width="500" height="375" /></p>
 <p>Show your Clemson pride with our exclusive &quot;On The Prowl&quot; tee. A tigers eyes are intimidating and strike fear in the hearts of its prey. You can strike that same fear in our opponents on gameday when you purchase this graphic tee.
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
