@@ -11,7 +11,7 @@
 			<?php readfile('http://output38.rssinclude.com/output?type=php&id=23477&hash=dade9ae00c751781408cfbc3c296249f')?>
 		</div>
 		<h2>Latest Episodes</h2>
-		<img class='podcasts-banner' src='/_images/banner.jpg' alt='Clemson Podcasts'>
+		<img class='podcasts-banner' src='/_images/Clemson_Sports_Talk_WebBanner_Small.jpg' alt='Clemson Podcasts'>
 		<div class='pam'>
 			<script type="text/javascript" src="http://app.feed.informer.com/digest3/SXQXHYZENN.js"></script>
 <noscript><a href="http://app.feed.informer.com/digest3/SXQXHYZENN.html">Click for &quot;&quot;.</a>

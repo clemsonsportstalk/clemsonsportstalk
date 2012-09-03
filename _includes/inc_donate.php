@@ -1,6 +1,6 @@
 <h2>Social Media</h2>
 <div class='donate pam'>
-  <a class='img-link' href="http://www.facebook.com/clemsonpodcasts">
+  <a class='img-link' href="https://www.facebook.com/ClemsonSportsTalk">
     <img src="../_images/Icons/facebook.png" width="30" height="30" longdesc="Facebook" />
   </a>
   <a class='img-link' href="http://twitter.com/clemsonsports">
@@ -13,10 +13,9 @@
     <img src="../_images/Icons/you-tube-logo.jpg" width="78" height="30" longdesc="YouTube" />
   </a>
 </div>
-<h2>Advertising</h2>
+<h2>Listen On The Go</h2>
 <ul class='links'>
-  <li><a href='/main/ads.php'>Advertising Information</a></li>
-</ul>
+  <li>
 <div class='donate pam'>
 	<form class='pam' action='https://www.paypal.com/cgi-bin/webscr' method='post'>
 		<input type='hidden' name='cmd' value='_s-xclick'>
@@ -27,13 +26,4 @@
   <a href='http://landing.stitcher.com/?vurl=CLEMSONPODCASTS'>
     <img src="../_images/bug_300x250.jpg" width="174" height="160">  </a>
   Promo Code: <strong>CLEMSONPODCASTS</strong>
-  <p><img src="../../../../AppData/Roaming/Adobe/Dreamweaver 9/Configuration/ServerConnections/Clemson Podcasts/www.clemsonpodcasts.com/web/content/_images/Sponsors/Cross_Creek1.jpg" width="160" height="90" longdesc="http://www.crosscreektimber.com" />  
-  <p><img src="../../../../AppData/Roaming/Adobe/Dreamweaver 9/Configuration/ServerConnections/Clemson Podcasts/www.clemsonpodcasts.com/web/content/_images/Sponsors/DC1.jpg" width="160" height="90" longdesc="http://www.doodycalls.com/pooper_scooper_south_carolina_columbia.asp" />  
-  <p><img src="../../../../AppData/Roaming/Adobe/Dreamweaver 9/Configuration/ServerConnections/Clemson Podcasts/www.clemsonpodcasts.com/web/content/_images/Sponsors/EO1.jpg" width="160" height="90" longdesc="http://www.edistooutdoors.com/" />  
-  <p><img src="../../../../AppData/Roaming/Adobe/Dreamweaver 9/Configuration/ServerConnections/Clemson Podcasts/www.clemsonpodcasts.com/web/content/_images/Sponsors/James_F_Martin1.jpg" width="160" height="90" longdesc="http://www.clemson.edu/centers-institutes/madren/inn" />
-  <p><img src="../../../../AppData/Roaming/Adobe/Dreamweaver 9/Configuration/ServerConnections/Clemson Podcasts/www.clemsonpodcasts.com/web/content/_images/Sponsors/fudog-10percent-off.png" width="160" height="90" longdesc="http://fudogmedia.net/" />
-  
-  <p><img src="../../../../AppData/Roaming/Adobe/Dreamweaver 9/Configuration/ServerConnections/Clemson Podcasts/www.clemsonpodcasts.com/web/content/_images/Sponsors/FB1.jpg" width="160" height="90" longdesc="http://scfbins.com/agents/blake-austin" />  
-  <p><img src="../../../../AppData/Roaming/Adobe/Dreamweaver 9/Configuration/ServerConnections/Clemson Podcasts/www.clemsonpodcasts.com/web/content/_images/Sponsors/Seasons1.jpg" width="160" height="90" longdesc="http://www.clemson.edu/centers-institutes/madren/dining.html" />  
-  <p><img src="../../../../AppData/Roaming/Adobe/Dreamweaver 9/Configuration/ServerConnections/Clemson Podcasts/www.clemsonpodcasts.com/web/content/_images/Sponsors/GDOG1.jpg" width="160" height="90" longdesc="http://www.peacefuldentistry.com/" />
 </div>
