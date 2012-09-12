@@ -39,8 +39,10 @@ Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
                                    
                                 <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/clemsonpodcasts&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe> 
                 <div align="center"><p align="left">
+                <a href="http://chirb.it/mAEI5q">
+              Woodrow Dantzler chats with Lawton about his days at Clemson.                </a><p align="left">
                 <a href="http://chirb.it/cHItGe">
-              Lawton joins B.J Bennett on The Drive to talk Robert Nkemdiche                </a><p align="left">
+              Lawton joins B.J Bennett on The Drive to talk Robert Nkemdiche.                </a><p align="left">
               <a href="http://chirb.it/ANwb1k">
               Da'Quan Bowers visits with Lawton on TigerNet Talk #141.                </a>
                 <div class='pam'></div>
