@@ -1,12 +1,31 @@
 <?php include('base.php') ?>
 <?php startblock('main') ?>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Begin SpeakPipe code -->
+<script type="text/javascript">
+(function(d){
+var app = d.createElement('script'); app.type = 'text/javascript'; app.async = true;
+var pt = ('https:' == document.location.protocol ? 'https://' : 'http://');
+app.src = pt + 'www.speakpipe.com/loader/qw1js8dgbwjoask34ittpky81fu27k0e.js'; 
+var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(app, s);
+})(document);
+</script>
+<!-- End SpeakPipe code -->
+
 <div class='line'>
 	<div class='unit size1of2 clemson-news'>
 		<h2>Clemson News</h2>
         
         
-		<iframe width="364" height="287" src="http://www.youtube.com/embed/videoseries?list=PL3D744B1217B8325A&amp;hl=en_US" frameborder="0" allowfullscreen></iframe> 
-        <!--<div id='vokle_embed_lineup_16444_container'><script type="text/javascript" src="//api.vokle.com/embed/lineup/16444?width=364"></script></div><br />-->
+		 <iframe width="364" height="287" src="http://www.youtube.com/embed/videoseries?list=PL3D744B1217B8325A&amp;hl=en_US" frameborder="0" allowfullscreen></iframe> 
+       <!--<div id='vokle_embed_lineup_16444_container'><script type="text/javascript" src="//api.vokle.com/embed/lineup/16444?width=364"></script></div>--><br />
             <div class='txtC'>
 			<?php readfile('http://output38.rssinclude.com/output?type=php&id=23477&hash=dade9ae00c751781408cfbc3c296249f')?>
 		</div>
@@ -37,8 +56,14 @@ Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
 				</ul>
              <h2>Recent Interviews</h2>
                                    
-                                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/clemsonpodcasts&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe> 
+                                <div class="fb-like" data-href="http://www.facebook.com/clemsonsportstalk" data-send="true" data-layout="button_count" data-width="165" data-show-faces="false"></div>
                 <div align="center"><p align="left">
+                <a href="http://chirb.it/KyIeEw">
+              Lawton returns to ESPN Radio "The Drive" to talk Clemson vs Florida State.              </a><p align="left">
+                <a href="http://chirb.it/a8Pb2D">
+              Bomani Jones from ESPN's Around the Horn talks Clemson vs FSU on Clemson Hotline.                </a><p align="left">
+                <a href="http://chirb.it/HMbFtK">
+              Mark Packer talks Notre Dame to the ACC on TigerNet Talk.                </a><p align="left">
                 <a href="http://chirb.it/mAEI5q">
               Woodrow Dantzler chats with Lawton about his days at Clemson.                </a><p align="left">
                 <a href="http://chirb.it/cHItGe">
@@ -51,7 +76,7 @@ Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
 				<div align='center'>
 					<?php readfile('http://output18.rssinclude.com/output?type=php&id=48304&hash=4be9aa3b660508b4f4bbf268e3efb36f')?>
 				</div>
-				<h2>Upcoming Games</h2>
+				<h2>2012 Schedule</h2>
 				<div class='txtC'>
 					<div class='pam'>
 						<table class='center txtL'>
@@ -124,20 +149,42 @@ Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
 					</div>
 				</div>
 				<h2>Tweets</h2>
-				<div id='twitter_div' class='pam'>
-					<div class='txtC'>
-						<img src='/_images/cptwittter.gif'>
-					</div>
-					<ul class='tweets'>
-					</ul>
-					<p class='txtC'>
-						<a href='http://www.twitter.com/ClemsonSports'>
-							<img src='http://twitter-badges.s3.amazonaws.com/follow_me-c.png' alt='Follow Clemson Sports on Twitter'>
-						</a>
-					</p>
-				</div>
-			</div>
-			<div class='unit size1of3 sponsors'>
+        <div class='pam'>
+          <script charset='utf-8' src='http://widgets.twimg.com/j/2/widget.js'></script>
+<script>
+  new TWTR.Widget({
+    version: 2,
+    type: 'profile',
+    rpp: 5,
+    interval: 30000,
+    width: 'auto',
+    height: 3000,
+    theme: {
+      shell: {
+        background: 'transparent',
+        color: '#333'
+      },
+      tweets: {
+        background: 'transparent',
+        color: '#333',
+        links: '#639'
+      }
+    },
+    features: {
+      scrollbar: false,
+      loop: false,
+      live: false,
+      behavior: 'all'
+    }
+  })
+  .render()
+  .setUser('clemsonsports')
+  .start();
+</script>
+
+        </div>
+      </div>
+      <div class='unit size1of3 sponsors'>
 				<h2>Sponsors</h2>
 				<?php require_once('../_includes/inc_google_ads_rt.php'); ?>
 			</div>
