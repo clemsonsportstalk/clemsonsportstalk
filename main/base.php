@@ -2,13 +2,14 @@
 <!doctype html>
 <html>
 <head>
-	<title>Clemson Podcasts</title>
-	<meta name='description' content='Clemson Tiger sports shows and news updates. Clemson Podcasts brings you Clemson Tiger sports news via Twitter as well as Clemson Tiger radio shows Clemson Hotline and TigerNet Talk.'>
-	<meta name='keywords' content='Clemson Tigers, Clemson Podcasts, Tigernet, Clemson Hotline, TigerNet Talk, Y&apos;all Magazine, sports, podcasts, podcasting'>
+	<title>Clemson Sports Talk</title>
+	<meta name='description' content='Clemson Tiger sports shows and news updates. Clemson Sports Talk brings you Clemson Tiger sports news via Twitter as well as Clemson Tiger radio shows Clemson Hotline and TigerNet Talk.'>
+	<meta name='keywords' content='Clemson Tigers, , CLemson Sports Talk, Clemson Podcasts, Tigernet, Clemson Hotline, TigerNet Talk, Y&apos;all Magazine, sports, podcasts, podcasting'>
 	<link rel='apple-touch-icon' href='http://farm4.static.flickr.com/3461/3824482129_32c5e526bd.jpg'>
 	<?php require_once('../_includes/inc_meta.php'); ?>
 
 	<link href='//fonts.googleapis.com/css?family=Orbitron:400,500,700,900' rel='stylesheet'>
+    <link href='/css/bubbles.css' rel='stylesheet'>
 
 	<?if(ereg('clemsonpodcasts.com', $_SERVER['HTTP_HOST'])){?>
 		<link href='/css/_screen.css' rel='stylesheet'>

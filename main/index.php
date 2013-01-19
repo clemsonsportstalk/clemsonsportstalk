@@ -20,27 +20,27 @@ var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(app, s);
 <!-- End SpeakPipe code -->
 
 <div class='line'>
-	<div class='unit size1of2 clemson-news'>
-		<h2>Clemson News</h2>
-        
-        
-		 <iframe width="364" height="287" src="http://www.youtube.com/embed/videoseries?list=PL3D744B1217B8325A&amp;hl=en_US" frameborder="0" allowfullscreen></iframe> 
-       <!--<div id='vokle_embed_lineup_16444_container'><script type="text/javascript" src="//api.vokle.com/embed/lineup/16444?width=364"></script></div>--><br />
-            <div class='txtC'>
-			<?php readfile('http://output38.rssinclude.com/output?type=php&id=23477&hash=dade9ae00c751781408cfbc3c296249f')?>
-		</div>
+	<div class='unit size2of3 clemson-news' style="background:white;">
+     <!--<iframe width="364" height="287" src="http://www.youtube.com/embed/videoseries?list=PL3D744B1217B8325A&amp;hl=en_US" frameborder="0" allowfullscreen></iframe> -->
 		<h2>Latest Episodes</h2>
-		<img class='podcasts-banner' src='/_images/Clemson_Sports_Talk_WebBanner_Small.jpg' alt='Clemson Podcasts'>
-		<div class='pam'>
+        <div class='pam'>
 			<script type="text/javascript" src="http://app.feed.informer.com/digest3/SXQXHYZENN.js"></script>
 <noscript><a href="http://app.feed.informer.com/digest3/SXQXHYZENN.html">Click for &quot;&quot;.</a>
 Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
 		</div>
+        
+		     
+            
+		<h2>Clemson News</h2>
+        <div class='pam'>
+			<?php readfile('http://output38.rssinclude.com/output?type=php&id=23477&hash=dade9ae00c751781408cfbc3c296249f')?>
+		</div>
+		
 	</div>
-	<div class='unit size1of2'>
+	<div class='unit size1of3'>
 		<div class='line'>
-			<div class='unit size2of3 extras'>
-				<h2>Previous Episodes</h2>
+			<div class='unit extras'>
+				<!--<h2>Previous Episodes</h2>
 
                 <ul class='episodes'>
 					<li>
@@ -53,30 +53,26 @@ Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
 							<strong>loading...</strong>
 						</a>
 					</li>
-				</ul>
+				</ul>-->
              <h2>Recent Interviews</h2>
                                    
                                 <div class="fb-like" data-href="http://www.facebook.com/clemsonsportstalk" data-send="true" data-layout="button_count" data-width="165" data-show-faces="false"></div>
                 <div align="center"><p align="left">
-                <a href="http://chirb.it/KyIeEw">
-              Lawton returns to ESPN Radio "The Drive" to talk Clemson vs Florida State.              </a><p align="left">
-                <a href="http://chirb.it/a8Pb2D">
-              Bomani Jones from ESPN's Around the Horn talks Clemson vs FSU on Clemson Hotline.                </a><p align="left">
-                <a href="http://chirb.it/HMbFtK">
-              Mark Packer talks Notre Dame to the ACC on TigerNet Talk.                </a><p align="left">
-                <a href="http://chirb.it/mAEI5q">
-              Woodrow Dantzler chats with Lawton about his days at Clemson.                </a><p align="left">
-                <a href="http://chirb.it/cHItGe">
-              Lawton joins B.J Bennett on The Drive to talk Robert Nkemdiche.                </a><p align="left">
-              <a href="http://chirb.it/ANwb1k">
-              Da'Quan Bowers visits with Lawton on TigerNet Talk #141.                </a>
+                <a href="http://chirb.it/c9p1b7">
+              DeAndre 'Nuk' Hopkins on TigerNet Talk</a><p align="left">
+                <a href="http://chirb.it/Jrs29d">
+              Back on 790AM The Fan recapping Clemson's season</a><p align="left">
+                <a href="http://chirb.it/2cKdx4">
+              Perry Tuttle talks with Lawton about his days at Clemson</a><p align="left">
+               <a href="http://clemsonpodcasts.com/main/tnt.php">
+              Archived Interviews</a><p align="left">
                 <div class='pam'></div>
 			  </div>
 			  <h2>Blog</h2>
 				<div align='center'>
 					<?php readfile('http://output18.rssinclude.com/output?type=php&id=48304&hash=4be9aa3b660508b4f4bbf268e3efb36f')?>
 				</div>
-				<h2>2012 Schedule</h2>
+				<!--<h2>2012 Schedule</h2>
 				<div class='txtC'>
 					<div class='pam'>
 						<table class='center txtL'>
@@ -147,7 +143,7 @@ Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
 							</tr>
 						</table>
 					</div>
-				</div>
+				</div>-->
 				<h2>Tweets</h2>
         <div class='pam'>
           <script charset='utf-8' src='http://widgets.twimg.com/j/2/widget.js'></script>
@@ -184,11 +180,7 @@ Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
 
         </div>
       </div>
-      <div class='unit size1of3 sponsors'>
-				<h2>Sponsors</h2>
-				<?php require_once('../_includes/inc_google_ads_rt.php'); ?>
-			</div>
-		</div>
+      		</div>
 	</div>
 </div>
 <?php endblock() ?>

@@ -7,7 +7,7 @@
 <div class='unit size4of5 radio'>
 		<h2>Radio Affiliates</h2>
 
-		<div class='pam'>
+<div class='pam'>
 			<h3>Affiliates 2012-2013</h3>
             <strong>WE ARE CURRENTLY GATHERING AFFILIATES FOR THE UPCOMING YEAR!			</strong>
 <table class='affiliates' cellspacing='0' cellpadding='4'>
@@ -86,20 +86,20 @@
                   <th width="453"><div align="center">How?</div></th>
 			  </tr>
 				<tr>
-					<td>Itunes</td>
-				  <td><a href="http://itunes.apple.com/us/podcast/tigernet-talk-tnt/id79900679">TigerNet Talk</a>
-                    &amp; <a href="http://itunes.apple.com/us/podcast/clemson-hotline/id272184586">Clemson Hotline</a>
-					<td>Make sure you subscribe to our podcasts and sync weekly to stay informed on the latest out of Clemson.</td>
-                    <td width="1"></td>
+					<td>Spreecast</td>
+				    <td><a href="http://www.spreecast.com/channels/clemson-sports-talk">TigerNet Talk &amp; Clemson Hotline</a>
+			        
+			      <td>Watch the shows LIVE on our front page Sunday and Wednesday nights at 9:00 PM. Lawton takes all your calls, tweets, emails, and text questions. </td>
+                  <td width="1"></td>
 			  </tr>
 				<tr class='zebra'>
 					<td>Stitcher Smart Radio</td>
 					<td><a href="http://www.stitcher.com/listen.php?fid=19425">TigerNet Talk</a> & <a href="http://www.stitcher.com/listen.php?fid=10084">Clemson Hotline</a></td>
                     <td>Stitcher Smart Radio is an app for your smart phone. This app requires no syncing to keep up with our programming. Use the PROMO CODE: CLEMSONPODCASTS for your shot at $100.			  </td>
 				<tr>
-					<td>Vokle</td>
-					<td><a href="http://www.vokle.com/series/16444-tigernet-talk-slash-clemson-hotline">TigerNet Talk &amp; Clemson Hotline</a></td>
-                    <td>Tune in to Vokle to watch TigerNet Talk and Clemson Hotline LIVE. Lawton takes all your calls, tweets, emails, and live text questions on the #2 rated show on Vokle.			  </td>
+				  <td>Itunes</td>
+				  <td><a href="http://itunes.apple.com/us/podcast/tigernet-talk-tnt/id79900679">TigerNet Talk</a> &amp; <a href="http://itunes.apple.com/us/podcast/clemson-hotline/id272184586">Clemson Hotline</a> </td>
+				  <td>Make sure you subscribe to our podcasts and sync weekly to stay informed on the latest out of Clemson.</td>
 			  </tr>
 				<tr class='zebra'>
 					<td>YouTube</td>
@@ -107,14 +107,14 @@
                     <td>High quality archived versions of TigerNet Talk and Clemson Hotline are uploaded after the show wraps.			  </td>
 			  </tr>
 		  </table>
-				<p>Frequently Asked Questions:</p>
+		  <p>Frequently Asked Questions:</p>
 				<p><strong>How can I take part in the LIVE show?</strong> </p>
 		  <p><strong>Phone:</strong> 1-803-450-0086
           <p><strong>Twitter:</strong> Tweet to hashtag #TNTalk or @clemsonsports
           <p> <strong>Email: </strong><a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a>
-          <p><strong>Vokle: </strong>If you
-          watch the show live on <a href="http://www.vokle.com">Vokle</a> we take your text questions during the program.
-          <p><strong>
+          <p><strong>Spreecast: </strong>If you
+          watch the show LIVE on Spreecast we take your text questions during the program.
+<p><strong>
           Can I still be a part of the show if I listen to the podcast editions?</strong></p>
             <p> You know it! We won't leave anyone out of the discussions. You can participate in the program 24 hours a day, 7 days a week. The phone lines are always up and running. If you listen to the podcast version and you want your voice heard give us a call, tweet, or email. </p>
 		</div>

@@ -84,7 +84,7 @@ This "Retro" Tee takes you back to the greatest day in Clemson football history.
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>-->
+</form>
 <hr onblur/>
 <img src="../_images/pitchfork_sales_new.jpg" width="500" height="375" /><a name="Pitchfork"></a>><BR>
 <p> On November 24, 2012 Clemson will host South Carolina to put an end to the Gamecocks first three game winning streak in 40 years. Get your pitchfork ready! Celebrate Ben Tillman's pitchfork returning for the 2012 season.
@@ -108,7 +108,7 @@ This "Retro" Tee takes you back to the greatest day in Clemson football history.
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+</form>-->
 <hr onblur/>
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">

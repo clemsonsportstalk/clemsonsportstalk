@@ -9,8 +9,7 @@
 	</li>
 	<? $active = ereg('clemson_hotline.php', $script); ?>
 	<li class='<? if($active) { ?>active<? } ?>'>
-		<a<? if(!$active) {?> href='/main/store.php'<? } ?> class='nav-hotline'>Tiger Store</a>
-	</li>
+		<a href='/main/live.php' class='nav-hotline'<? if(!$active) {?><? } ?>>LIVE SHOW</a>	</li>
 	<? $active = ereg('radio_affiliates.php', $script); ?>
 	<li class='<? if($active) { ?>active<? } ?>'>
 		<a<? if(!$active) {?> href='/main/radio_affiliates.php'<? } ?> class='nav-radio'>Radio Affiliates</a>
@@ -19,9 +18,9 @@
 		<a href='http://clemsonpodcasts.wordpress.com' class='nav-blog'>Blog</a>
 	</li>
 	<li>
-		<a href='http://itunes.apple.com/us/podcast/tigernet-talk-tnt/id79900679' class='nav-itunes'>Itunes</a>
+	  <a<? if(!$active) {?> href='/main/store.php'<? } ?> class='nav-itunes'>Store</a>
 	</li>
-	<? $active = ereg('about.php', $script); ?>
+<? $active = ereg('about.php', $script); ?>
 	<li class='<? if($active) { ?>active<? } ?>'>
 		<a<? if(!$active) {?> href='/main/about.php'<? } ?> class='nav-about'>About</a>
 	</li>

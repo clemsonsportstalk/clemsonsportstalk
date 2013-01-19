@@ -9,7 +9,7 @@
   <p align="center"><a href="http://www.clemson.edu/centers-institutes/madren/inn"><img src="../_images/Sponsors/James_F_Martin1.jpg" width="96" height="54" longdesc="http://www.clemson.edu/centers-institutes/madren/inn" /></a> <a href="http://fudogmedia.net"><img src="../_images/Sponsors/fudog-10percent-off.png" width="96" height="54" longdesc="http://fudogmedia.net/" /></a>
 <p align="center"><a href="http://scfbins.com/agents/blake-austin"><img src="../_images/Sponsors/FB1.jpg" width="96" height="54" longdesc="http://scfbins.com/agents/blake-austin" /></a> <a href="http://www.clemson.edu/centers-institutes/madren/dining.html"><img src="../_images/Sponsors/Seasons1.jpg" width="96" height="54" longdesc="http://www.clemson.edu/centers-institutes/madren/dining.html" /></a>
     
-	
+	<p align="center"><a href="http://www.vostokcoolers.com"><img src="../_images/Sponsors/vostok.png" width="192" height="54" longdesc="http://www.vostokcoolers.com" /></a> 
     
     
    
