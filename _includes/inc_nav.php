@@ -3,14 +3,14 @@
 	<li class='<? if($active) { ?>active<? } ?>'>
 		<a<? if(!$active) {?> href='/main/index.php'<? } ?> class='nav-home'>Home</a>
 	</li>
+    <? $active = ereg('live.php', $script); ?>
+	<li class='<? if($active) { ?>active<? } ?>'>
+		<a href='/main/live.php' class='nav-live'<? if(!$active) {?><? } ?>>LIVE SHOW</a>	</li>
 	<? $active = ereg('tnt.php', $script); ?>
 	<li class='<? if($active) { ?>active<? } ?>'>
-		<a<? if(!$active) {?> href='/main/tnt.php'<? } ?> class='nav-tnt'>Show Archives</a>
+		<a<? if(!$active) {?> href='/main/tnt.php'<? } ?> class='nav-tnt'>Archives</a>
 	</li>
-	<? $active = ereg('clemson_hotline.php', $script); ?>
-	<li class='<? if($active) { ?>active<? } ?>'>
-		<a href='/main/live.php' class='nav-hotline'<? if(!$active) {?><? } ?>>LIVE SHOW</a>	</li>
-	<? $active = ereg('radio_affiliates.php', $script); ?>
+		<? $active = ereg('radio_affiliates.php', $script); ?>
 	<li class='<? if($active) { ?>active<? } ?>'>
 		<a<? if(!$active) {?> href='/main/radio_affiliates.php'<? } ?> class='nav-radio'>Radio Affiliates</a>
 	</li>
@@ -18,6 +18,8 @@
 		<a href='http://clemsonpodcasts.wordpress.com' class='nav-blog'>Blog</a>
 	</li>
 	<li>
+    <? $active = ereg('store.php', $script); ?>
+	<li class='<? if($active) { ?>active<? } ?>'>
 	  <a<? if(!$active) {?> href='/main/store.php'<? } ?> class='nav-itunes'>Store</a>
 	</li>
 <? $active = ereg('about.php', $script); ?>

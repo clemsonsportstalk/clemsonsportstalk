@@ -7,7 +7,7 @@
 	<div class='unit size4of5 radio'>
 		<h2>Tiger Store</h2>
 		<div class='pam'>
-			<p align="left">Clemson Podcasts is committed to our fans and we are going to give you Clemson themed t-shirts that you can't find anywhere else on the internet. Please support our show by purchasing one or both of these Clemson Podcast originals! We need your help to spread the word about our shows.</p>
+			<p align="left">Clemson Sports Talk is committed to our fans and we are going to give you Clemson themed t-shirts that you can't find anywhere else on the internet. Please support our show by purchasing one or both of these Clemson Sports Talk originals! We need your help to spread the word about our shows.</p>
 <p align="left">Feel free to contact us at the email address below if you have any interest in being a sponsor of our website or programs. We look forward to creating a relationship with your company that can take your product line to the masses.</p>
 <p align="left">If you have any issues with ordering please contact us at  <a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a>. </p>
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -121,7 +121,7 @@ This "Retro" Tee takes you back to the greatest day in Clemson football history.
 
 <p align="center">  Email: <a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a></p>
 			
-				<div align="center">All designs belong to Clemson Podcasts.</div>
+				<div align="center">All designs belong to Clemson Sports Talk.</div>
 		</div>
 	</div>
 	<div class='unit size1of5 sponsors'>

@@ -19,8 +19,8 @@
   <a href='http://landing.stitcher.com/?vurl=CLEMSONPODCASTS'>
     <img src="../_images/bug_300x250.jpg" width="174" height="160">  </a>
   Promo Code: <strong>CLEMSONPODCASTS</strong><p>
-  <a href='http://www.scannermaster.com/?Click=133570'>
-    <img src="../_images/KOA_ad2.jpg" width="174" height="130">  </a>
+  <!--<a href='http://www.scannermaster.com/?Click=133570'>
+    <img src="../_images/KOA_ad2.jpg" width="174" height="130">  </a>-->
 
 <p class="triangle-border top">&nbsp;</p>
 </div>

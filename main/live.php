@@ -15,7 +15,17 @@
           watch the show LIVE on Spreecast join the chatroom. We take your text questions during the program.
 		  <p><strong>Phone:</strong> 1-803-450-0086
           <p><strong>Twitter:</strong>  #TNTalk or @ClemsonSports
-          <p> <strong>Email: </strong><a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a>
+          <p align="left"> <strong>Email: </strong><a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a>
+          <p align="center">
+        <a href="http://www.crosscreektimber.com"><img src="../_images/Sponsors/Cross_Creek1.jpg" width="152" height="85" longdesc="http://www.crosscreektimber.com" /></a>  
+    	<a href="http://www.peacefuldentistry.com"><img src="../_images/Sponsors/GDOG1.jpg" width="152" height="85" longdesc="http://www.peacefuldentistry.com/" /></a> 
+        <a href="http://www.doodycalls.com/pooper_scooper_south_carolina_columbia.asp"><img src="../_images/Sponsors/DC1.jpg" width="152" height="85" longdesc="http://www.doodycalls.com/pooper_scooper_south_carolina_columbia.asp" /></a>
+        <a href="http://www.edistooutdoors.com"><img src="../_images/Sponsors/EO1.jpg" width="152" height="85" longdesc="http://www.edistooutdoors.com/" /></a>
+        <a href="http://www.clemson.edu/centers-institutes/madren/inn"><img src="../_images/Sponsors/James_F_Martin1.jpg" width="152" height="85" longdesc="http://www.clemson.edu/centers-institutes/madren/inn" /></a>          
+         <a href="http://fudogmedia.net"><img src="../_images/Sponsors/fudog-10percent-off.png" width="152" height="85" longdesc="http://fudogmedia.net/" /></a>
+         <a href="http://scfbins.com/agents/blake-austin"><img src="../_images/Sponsors/FB1.jpg" width="152" height="85" longdesc="http://scfbins.com/agents/blake-austin" /></a> 
+         <a href="http://www.clemson.edu/centers-institutes/madren/dining.html"><img src="../_images/Sponsors/Seasons1.jpg" width="152" height="85" longdesc="http://www.clemson.edu/centers-institutes/madren/dining.html" /></a>
+         <a href="http://www.crosscreekrealtyllc.com"><img src="../_images/Sponsors/CCRealty.jpg" width="152" height="85" longdesc="http://www.crosscreekrealtyllc.com" /></a>
           <p>
             <iframe id="spreecast-player" type="text/html" width="100%" height="725" src="http://www.spreecast.com/channels/clemson-sports-talk/embed-large" frameborder="0"></iframe>
 <table width="938" cellpadding='4' cellspacing='0' class='affiliates'>
