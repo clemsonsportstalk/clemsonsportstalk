@@ -33,7 +33,7 @@
               <br>
               <h2>Latest Episodes</h2>
 			
-			<script type='text/javascript' src='http://app.feed.informer.com/digest3/SXQXHYZENN.js'></script>
+			<script type='text/javascript' src='http://app.feed.informer.com/digest3/HBFYUM8I6U.js'></script>
 		</div>
 
 			

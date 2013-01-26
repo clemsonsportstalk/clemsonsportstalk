@@ -10,15 +10,18 @@
 		<h2>Blog</h2>
 
 		<div class='pam'>
-        
-	
-<p align="left">If you are interested in advertising with Clemson Podcasts please let us know! We offer multiple packages starting at just $100 per month! Select packages include advertising on www.clemsonpodcasts.com, www.tigernet.com, LIVE on Vokle, the podcast additions, or the radio show heard throughout South Carolina. </p>
-
-<p align="left">Advertising with Clemson Podcasts can put your company in the eyes and ears of Clemson fans, as well as sports fans around the world. We also have one of the most influential Clemson Twitter feeds on the web. Placing an advertisement with Clemson Podcasts will spread your company's advertisement around the globe.</p>
-<p align="left">Feel free to contact us at <a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a> if you have any interest in being a sponsor on our website or programs. We look forward to creating a relationship with your company that can take your product line to the masses.
-  </p>
-</p> 
-<div align="center"><img src="../_images/CP_Flyer.gif" width="557" height="721" /></div>
+         <p align="center">
+        <a href="http://www.crosscreektimber.com"><img src="../_images/Sponsors/Cross_Creek1.jpg" width="152" height="85" longdesc="http://www.crosscreektimber.com" /></a>  
+    	<a href="http://www.peacefuldentistry.com"><img src="../_images/Sponsors/GDOG1.jpg" width="152" height="85" longdesc="http://www.peacefuldentistry.com/" /></a> 
+        <a href="http://www.doodycalls.com/pooper_scooper_south_carolina_columbia.asp"><img src="../_images/Sponsors/DC1.jpg" width="152" height="85" longdesc="http://www.doodycalls.com/pooper_scooper_south_carolina_columbia.asp" /></a>
+        <a href="http://www.edistooutdoors.com"><img src="../_images/Sponsors/EO1.jpg" width="152" height="85" longdesc="http://www.edistooutdoors.com/" /></a>
+        <a href="http://www.clemson.edu/centers-institutes/madren/inn"><img src="../_images/Sponsors/James_F_Martin1.jpg" width="152" height="85" longdesc="http://www.clemson.edu/centers-institutes/madren/inn" /></a>          
+         <a href="http://fudogmedia.net"><img src="../_images/Sponsors/fudog-10percent-off.png" width="152" height="85" longdesc="http://fudogmedia.net/" /></a><a href="http://scfbins.com/agents/blake-austin"><img src="../_images/Sponsors/FB1.jpg" width="152" height="85" longdesc="http://scfbins.com/agents/blake-austin" /></a> 
+         <a href="http://www.clemson.edu/centers-institutes/madren/dining.html"><img src="../_images/Sponsors/Seasons1.jpg" width="152" height="85" longdesc="http://www.clemson.edu/centers-institutes/madren/dining.html" /></a>
+         <a href="http://www.crosscreekrealtyllc.com"><img src="../_images/Sponsors/CCRealty.jpg" width="152" height="85" longdesc="http://www.crosscreekrealtyllc.com" /></a>
+         <p>
+         <hr>
+	<?php @readfile('http://output48.rssinclude.com/output?type=php&id=617673&hash=4f7187081a8a389886c073b0857ddcb6')?>  
 <p align="center">  Email: <a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a></p>
 			<p>
 		</div>

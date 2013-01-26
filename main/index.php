@@ -69,11 +69,8 @@ Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
               Archived Interviews</a><p align="left">
                 <div class='pam'></div>
 			  </div>
-			  <h2>Blog</h2>
-				<div align='center'>
-					<?php readfile('http://output18.rssinclude.com/output?type=php&id=48304&hash=4be9aa3b660508b4f4bbf268e3efb36f')?>
-				</div>
-				<!--<h2>2012 Schedule</h2>
+			 
+				<!--<h2>2013 Schedule</h2>
 				<div class='txtC'>
 					<div class='pam'>
 						<table class='center txtL'>

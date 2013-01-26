@@ -12,10 +12,12 @@
 	</li>
 		<? $active = ereg('radio_affiliates.php', $script); ?>
 	<li class='<? if($active) { ?>active<? } ?>'>
-		<a<? if(!$active) {?> href='/main/radio_affiliates.php'<? } ?> class='nav-radio'>Radio Affiliates</a>
+		<a<? if(!$active) {?> href='/main/radio_affiliates.php'<? } ?> class='nav-radio'>How to Listen</a>
 	</li>
 	<li>
-		<a href='http://clemsonpodcasts.wordpress.com' class='nav-blog'>Blog</a>
+    <? $active = ereg('blog.php', $script); ?>
+	<li class='<? if($active) { ?>active<? } ?>'>
+	  <a<? if(!$active) {?> href='/main/blog.php'<? } ?> class='nav-blog'>Blog</a>
 	</li>
 	<li>
     <? $active = ereg('store.php', $script); ?>

@@ -1,5 +1,11 @@
 <?php include('base.php') ?>
 <?php startblock('bg') ?>
+<style type="text/css">
+<!--
+.style3 {font-size: small; }
+-->
+</style>
+
 <div class='body bg-alt'>
 <?php endblock() ?>
 <?php startblock('main') ?>
@@ -81,16 +87,15 @@
             If you don't see one of your local stations on our list you can listen to our shows a number of different ways.
             <table class='affiliates' cellspacing='0' cellpadding='4'>
 				<tr>
-					<th width="137"><div align="center">Source</div></th>
-				  <th width="224"><div align="center">Link</div></th>
-                  <th width="453"><div align="center">How?</div></th>
+					<th width="82"><div align="center" class="style3">Source</div></th>
+				  <th width="172"><div align="center" class="style3">Link</div></th>
+                  <th width="440"><div align="center" class="style3">Info</div></th>
 			  </tr>
 				<tr>
 					<td>Spreecast</td>
 				    <td><a href="http://www.spreecast.com/channels/clemson-sports-talk">TigerNet Talk &amp; Clemson Hotline</a>
-			        
 			      <td>Watch the shows LIVE on our front page Sunday and Wednesday nights at 9:00 PM. Lawton takes all your calls, tweets, emails, and text questions. </td>
-                  <td width="1"></td>
+                  <td width="2"></td>
 			  </tr>
 				<tr class='zebra'>
 					<td>Stitcher Smart Radio</td>
@@ -102,12 +107,16 @@
 				  <td>Make sure you subscribe to our podcasts and sync weekly to stay informed on the latest out of Clemson.</td>
 			  </tr>
 				<tr class='zebra'>
+					<td>Podcasts App</td>
+					<td><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&sqi=2&ved=0CDIQFjAA&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fpodcasts%2Fid525463029%3Fmt%3D8&ei=HyD8UP-6L4vU9ATqjIDwCg&usg=AFQjCNFqb9lQPqphtU8EkriKf8hDioBgeA&sig2=ebqWqjgG90Gr3H68TIrgbg&bvm=bv.41248874,d.eWU">TigerNet Talk & Clemson Hotline</a></td>
+                    <td>On your iPhone, iPod, or iPad, you can listen anytime using the Podcasts App. Just search for our shows to start listening on the go!			  </td>
+			  </tr>
 					<td>YouTube</td>
-					<td><a href="http://www.youtube.com/playlist?list=PL3D744B1217B8325A">TigerNet Talk</a> & Clemson Hotline</td>
+					<td><a href="http://www.youtube.com/playlist?list=PL3D744B1217B8325A">TigerNet Talk & Clemson Hotline</a></td>
                     <td>High quality archived versions of TigerNet Talk and Clemson Hotline are uploaded after the show wraps.			  </td>
 			  </tr>
 		  </table>
-		  <p>Frequently Asked Questions:</p>
+	  <p>Frequently Asked Questions:</p>
 				<p><strong>How can I take part in the LIVE show?</strong> </p>
 		  <p><strong>Phone:</strong> 1-803-450-0086
           <p><strong>Twitter:</strong> Tweet to hashtag #TNTalk or @clemsonsports
