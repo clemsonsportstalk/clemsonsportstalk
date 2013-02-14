@@ -3,6 +3,16 @@
 <div class='body' style="background:white;">
 <?php endblock() ?>
 <?php startblock('main') ?>
+<!-- Begin SpeakPipe code -->
+<script type="text/javascript">
+(function(d){
+var app = d.createElement('script'); app.type = 'text/javascript'; app.async = true;
+var pt = ('https:' == document.location.protocol ? 'https://' : 'http://');
+app.src = pt + 'www.speakpipe.com/loader/qw1js8dgbwjoask34ittpky81fu27k0e.js'; 
+var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(app, s);
+})(document);
+</script>
+<!-- End SpeakPipe code -->
 <div class='line'>
 <div class='unit radio'>
 		<h2>LIVE SHOW</h2>
@@ -22,7 +32,7 @@
         <a href="http://www.doodycalls.com/pooper_scooper_south_carolina_columbia.asp"><img src="../_images/Sponsors/DC1.jpg" width="152" height="85" longdesc="http://www.doodycalls.com/pooper_scooper_south_carolina_columbia.asp" /></a>
         <a href="http://www.edistooutdoors.com"><img src="../_images/Sponsors/EO1.jpg" width="152" height="85" longdesc="http://www.edistooutdoors.com/" /></a>
         <a href="http://www.clemson.edu/centers-institutes/madren/inn"><img src="../_images/Sponsors/James_F_Martin1.jpg" width="152" height="85" longdesc="http://www.clemson.edu/centers-institutes/madren/inn" /></a>          
-         <a href="http://fudogmedia.net"><img src="../_images/Sponsors/fudog-10percent-off.png" width="152" height="85" longdesc="http://fudogmedia.net/" /></a>
+         <!--<a href="http://fudogmedia.net"><img src="../_images/Sponsors/fudog-10percent-off.png" width="152" height="85" longdesc="http://fudogmedia.net/" /></a><-->
          <a href="http://scfbins.com/agents/blake-austin"><img src="../_images/Sponsors/FB1.jpg" width="152" height="85" longdesc="http://scfbins.com/agents/blake-austin" /></a> 
          <a href="http://www.clemson.edu/centers-institutes/madren/dining.html"><img src="../_images/Sponsors/Seasons1.jpg" width="152" height="85" longdesc="http://www.clemson.edu/centers-institutes/madren/dining.html" /></a>
          <a href="http://www.crosscreekrealtyllc.com"><img src="../_images/Sponsors/CCRealty.jpg" width="152" height="85" longdesc="http://www.crosscreekrealtyllc.com" /></a><a href="http://www.vostokcoolers.com"><img src="../_images/Sponsors/vostok.png" width="304" height="85" longdesc="http://www.vostokcoolers.com" /></a>

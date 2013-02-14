@@ -30,10 +30,8 @@
 				per week. The show ran during football season, but I always wanted to
 				expand the coverage. In the fall of 2008 I expanded the show to cover
 				Clemson Tiger basketball in a segment called, &quot;Beyond the Arc&quot;.
-				Guests such as Dan Scott, Scott Rhymer, Greg Wallace, David Hood,
-				DeAndre Hopkins, Woody Dantzler, DeQuan Bowers, and Perry Tuttle have been featured on the show.
-			</p>
-			<p>
+				Guests such as DeAndre Hopkins, Woody Dantzler, Da'Quan Bowers,  Perry Tuttle, Dan Scott, Scott Rhymer, Greg Wallace, and David Hood have been featured on the show.			</p>
+<p>
 				In the spring of 2008 I was contacted by CRM sports to come on board with
 				their program Clemson Hotline. Clemson Hotline was in it's infancy at that
 				time, but I jumped at the opportunity to be on the radio. Clemson Hotline

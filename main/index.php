@@ -59,7 +59,13 @@ Powered by <a href="http://feed.informer.com/">RSS Feed Informer</a></noscript>
                                    
                                 <div class="fb-like" data-href="http://www.facebook.com/clemsonsportstalk" data-send="true" data-layout="button_count" data-width="165" data-show-faces="false"></div>
                 <div align="center"><p align="left">
-                <a href="http://chirb.it/c9p1b7">
+                <a href="http://chirb.it/mKyOs9  ">
+              Former Tiger Chansi Stuckey spends some time on TigerNet Talk</a><p align="left">
+                <a href="http://chirb.it/59rm7B  ">
+              ESPN's Tom Luginbill talks recruiting with Lawton Swann</a><p align="left">
+                <a href="http://chirb.it/OxPyq5 ">
+              Miss South Carolina Ali Rogers talks Clemson Sports</a><p align="left">
+				<a href="http://chirb.it/c9p1b7">
               DeAndre 'Nuk' Hopkins on TigerNet Talk</a><p align="left">
                 <a href="http://chirb.it/Jrs29d">
               Back on 790AM The Fan recapping Clemson's season</a><p align="left">
