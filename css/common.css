@@ -11,7 +11,7 @@ body, p, td {
   color: #000; }
 
 body {
-  background: #663399 url(/_images/bgrd_main.jpg) no-repeat top center;
+  background: #663399 url(/img/bgrd_main.jpg) no-repeat top center;
   margin: 0; }
 
 a:link, a:visited, a:active, a:hover {
@@ -200,13 +200,13 @@ a.logo {
   width: 225px; }
 
 .header-bg {
-  background: url(/_images/header.jpg) no-repeat; }
+  background: url(/img/header.jpg) no-repeat; }
 
 .bg {
-  background: url(/_images/bg.jpg); }
+  background: url(/img/bg.jpg); }
 
 .bg-alt {
-  background: url(/_images/bg-alt.jpg); }
+  background: url(/img/bg-alt.jpg); }
 
 h2 {
   margin: 0;

@@ -1,3 +1,0 @@
-#!/bin/sh
-
-lftp -u clemson -e "cd www.clemsonpodcasts.com/web/content; mirror -eRx .LCK -x package.json -x server.js -x node_modules -x deploy -x .git -x .gitignore; exit" ftp.clemsonpodcasts.com
