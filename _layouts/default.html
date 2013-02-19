@@ -11,15 +11,6 @@
 
   <link href='/css/screen.css' rel='stylesheet'>
 
-  <!--
-  <link href='/css/bubbles.css' rel='stylesheet'>
-  <link href='/css/template.css' rel='stylesheet'>
-  <link href='/css/space.css' rel='stylesheet'>
-  <link href='/css/grids.css' rel='stylesheet'>
-  <link href='/css/common.css' rel='stylesheet'>
-  <link href='/css/table.css' rel='stylesheet'>
-  -->
-
 </head>
 <body>
 <div class='page gs955'>
@@ -44,6 +35,10 @@
     {% include footer.html %}
 	</div>
 </div>
-{% include scripts.html %}
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
+<script src='/js/jquery.cycle.lite.js'></script>
+<script>
+  jQuery('.slideshow').cycle();
+</script>
 </body>
 </html>
