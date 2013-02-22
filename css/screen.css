@@ -414,10 +414,6 @@ h3 {
     background: #ddd;
     text-align: center;
 }
-.video object, .video embed {
-    width: 100%;
-    height: 216px;
-}
 .tnt .podcast {
     background: #eee;
 }
@@ -434,34 +430,6 @@ table.affiliates th {
 table.affiliates tr.zebra td {
     background: #fee;
 }
-.data {
-    position: relative;
-    zoom: 1;
-    vertical-align: top;
-    text-align: left;
-}
-.data table {
-    width: 100%;
-    table-layout: fixed;
-}
 .txtC, table .txtC td, table .txtC th, .data .txtC th, .data .txtC td {
     text-align: center;
-}
-.txtL, table .txtL td, table .txtL th, .data .txtL th, .data .txtL td {
-    text-align: left;
-}
-.txtR, table .txtR td, table .txtR th, .data .txtR th, .data .txtR td {
-    text-align: right;
-}
-.txtT, table .txtT td, table .txtT th, .data .txtT th, .data .txtT td {
-    vertical-align: top;
-}
-.txtB, table .txtB td, table .txtB th, .data .txtB th, .data .txtB td {
-    vertical-align: bottom;
-}
-.txtM, table .txtM td, table .txtM th, .data .txtM th, .data .txtM td {
-    vertical-align: middle;
-}
-.data th, .data td {
-    padding: 3px 20px;
 }
