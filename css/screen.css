@@ -20,9 +20,35 @@ body {
     content: " x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x ";
 }
 .page {
+    position: relative;
     margin: 0 auto;
     width: 950px;
     _text-align: left;
+}
+.page:before, .page:after {
+    position: absolute;
+    color: #8040bf;
+    font-size: 35px;
+    font-family: 'Orbitron';
+    content: 'Clemson Sports Talk';
+}
+.page:before {
+    left: -230px;
+    top: 200px;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+.page:after {
+    right: -230px;
+    top: 200px;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 }
 .oldSchool {
     width: 750px;
@@ -321,8 +347,8 @@ body, p, td {
     color: #000;
 }
 body {
-    background: #639 url(/img/bgrd_main.jpg) no-repeat top center;
-    margin: 0;
+    background: #639;
+    margin: 0 auto;
 }
 a:link, a:visited, a:active, a:hover {
     color: #639;
