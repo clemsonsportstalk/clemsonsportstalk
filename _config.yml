@@ -3,3 +3,30 @@ permalink: /:year/:month/:day/:title
 markdown: redcarpet
 redcarpet:
   extensions: ['autolink', 'smart', 'hard_wrap']
+sponsors:
+  primary:
+    -
+      name: Cross Creek Timber
+      link: 'http://www.crosscreektimber.com'
+      img: /img/Sponsors/Cross_Creek1.jpg
+    -
+      name: Cross Creek Realty
+      link: 'http://www.crosscreekrealtyllc.com'
+      img: /img/Sponsors/CCRealty.jpg
+  secondary:
+    -
+      name: Peaceful Dentistry
+      link: 'http://www.peacefuldentistry.com'
+      img: /img/Sponsors/GDOG1.jpg
+    -
+      name: Edisto Outdoors
+      link: 'http://www.edistooutdoors.com'
+      img: /img/Sponsors/EO1.jpg
+    -
+      name: James F. Martin Inn
+      link: 'http://www.clemson.edu/centers-institutes/madren/inn'
+      img: /img/Sponsors/James_F_Martin1.jpg
+    -
+      name: Seasons by the Lake
+      link: 'http://www.clemson.edu/centers-institutes/madren/dining.html'
+      img: /img/Sponsors/Seasons1.jpg

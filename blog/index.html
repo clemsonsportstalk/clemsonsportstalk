@@ -5,32 +5,36 @@ bg: bg-alt
 
 <div class='line'>
 	<div class='unit size4of5 radio'>
-		<h2>Blog</h2>
-
 		<div class='pam'>
-         <p align="center">
-        <a href="http://www.crosscreektimber.com"><img src="/img/Sponsors/Cross_Creek1.jpg" width="152" height="85" longdesc="http://www.crosscreektimber.com" /></a>
-        <a href="http://www.peacefuldentistry.com"><img src="/img/Sponsors/GDOG1.jpg" width="152" height="85" longdesc="http://www.peacefuldentistry.com/" /></a>
-        <a href="http://www.edistooutdoors.com"><img src="/img/Sponsors/EO1.jpg" width="152" height="85" longdesc="http://www.edistooutdoors.com/" /></a>
-        <a href="http://www.clemson.edu/centers-institutes/madren/inn"><img src="/img/Sponsors/James_F_Martin1.jpg" width="152" height="85" longdesc="http://www.clemson.edu/centers-institutes/madren/inn" /></a>
-        <a href="http://www.clemson.edu/centers-institutes/madren/dining.html"><img src="/img/Sponsors/Seasons1.jpg" width="152" height="85" longdesc="http://www.clemson.edu/centers-institutes/madren/dining.html" /></a>
-        <a href="http://www.crosscreekrealtyllc.com"><img src="/img/Sponsors/CCRealty.jpg" width="152" height="85" longdesc="http://www.crosscreekrealtyllc.com" /></a>
-        <p>
+      <p align='center'>
+        {% for sponsor in site.sponsors.primary %}
+          <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
+            <img src='{{ sponsor.img }}'>
+          </a>
+        {% endfor %}
+        {% for sponsor in site.sponsors.secondary %}
+          <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
+            <img src='{{ sponsor.img }}'>
+          </a>
+        {% endfor %}
+      </p>
+      <p>
         <hr>
-        <div id="rssincl-box-container-617673"></div>
-        <script type="text/javascript">
-        (function() {
-         var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
-         s.src = 'http://output30.rssinclude.com/output?type=asyncjs&id=617673&hash=18f42db12c1075a02077838f03bba67e';
-         document.getElementsByTagName('head')[0].appendChild(s);
-        })();
+        <div id='rssincl-box-container-617673'></div>
+        <script type='text/javascript'>
+          (function() {
+           var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+           s.src = 'http://output30.rssinclude.com/output?type=asyncjs&id=617673&hash=18f42db12c1075a02077838f03bba67e';
+           document.getElementsByTagName('head')[0].appendChild(s);
+          })();
         </script>
-<p align="center">  Email: <a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a></p>
-			<p>
+      </p>
+      <p class='txtC'>
+        Email: <a href='mailto:clemson81@gmail.com'>clemson81@gmail.com</a>
+      </p>
 		</div>
 	</div>
 	<div class='unit size1of5 sponsors'>
-		<h2>Sponsors</h2>
     {% include ads.html %}
 	</div>
 </div>

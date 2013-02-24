@@ -4,27 +4,29 @@
   <script>
 
     var sponsors = [
-      {url: 'http://www.crosscreektimber.com', img: '/img/Sponsors/Cross_Creek1.jpg'},
-      {url: 'http://www.crosscreekrealtyllc.com', img: '/img/Sponsors/CCRealty.jpg'}
+      {% for sponsor in site.sponsors.primary %}
+        {link: '{{ sponsor.link }}', img: '{{ sponsor.img }}', name: '{{ sponsor.name }}'}
+        {% unless forloop.last %},{% endunless %}
+      {% endfor %}
     ];
 
     var sponsor = sponsors[Math.floor(Math.random() * sponsors.length)];
     document.write(
-      "<a href='" + sponsor.url + "' target='_blank'>" +
+      "<a href='" + sponsor.link + "' title='" + sponsor.name + "' target='_blank'>" +
         "<img class='round' src='" + sponsor.img + "' style='margin: 3px;'>" +
       "</a>"
     );
 
     sponsors = [
-      {url: 'http://www.peacefuldentistry.com', img: '/img/Sponsors/GDOG1.jpg'},
-      {url: 'http://www.edistooutdoors.com', img: '/img/Sponsors/EO1.jpg'},
-      {url: 'http://www.clemson.edu/centers-institutes/madren/inn', img: '/img/Sponsors/James_F_Martin1.jpg'},
-      {url: 'http://www.clemson.edu/centers-institutes/madren/dining.html', img: '/img/Sponsors/Seasons1.jpg'}
+      {% for sponsor in site.sponsors.secondary %}
+        {link: '{{ sponsor.link }}', img: '{{ sponsor.img }}', name: '{{ sponsor.name }}'}
+        {% unless forloop.last %},{% endunless %}
+      {% endfor %}
     ];
 
     sponsor = sponsors[Math.floor(Math.random() * sponsors.length)];
     document.write(
-      "<a href='" + sponsor.url + "' target='_blank'>" +
+      "<a href='" + sponsor.link + "' title='" + sponsor.name + "' target='_blank'>" +
         "<img class='round' src='" + sponsor.img + "' style='margin: 3px;'>" +
       "</a>"
     );
