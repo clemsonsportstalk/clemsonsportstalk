@@ -5,23 +5,31 @@
 <div align='center' width='center'>
 
   <script>
-    var images = [
-      'CCRealty.jpg',
-      'Cross_Creek1.jpg',
-      'DC1.jpg',
-      'EO1.jpg',
-      'FB1.jpg',
-      'fudog-10percent-off.png',
-      'GDOG1.jpg',
-      'James_F_Martin1.jpg',
-      'Seasons1.jpg',
-      'vostok.png'
+
+    var sponsors = [
+      {url: 'http://www.crosscreektimber.com', img: '/img/Sponsors/Cross_Creek1.jpg'},
+      {url: 'http://www.crosscreekrealtyllc.com', img: '/img/Sponsors/CCRealty.jpg'}
     ];
 
+    var sponsor = sponsors[Math.floor(Math.random() * sponsors.length)];
     document.write(
-      "<img src='/img/Sponsors/" +
-      images[Math.floor(Math.random() * images.length)] +
-      "' width='223' height='125'>"
+      "<a href='" + sponsor.url + "'>" +
+        "<img src='" + sponsor.img + "' width='223'>" +
+      "</a>"
+    );
+
+    sponsors = [
+      {url: 'http://www.peacefuldentistry.com', img: '/img/Sponsors/GDOG1.jpg'},
+      {url: 'http://www.edistooutdoors.com', img: '/img/Sponsors/EO1.jpg'},
+      {url: 'http://www.clemson.edu/centers-institutes/madren/inn', img: '/img/Sponsors/James_F_Martin1.jpg'},
+      {url: 'http://www.clemson.edu/centers-institutes/madren/dining.html', img: '/img/Sponsors/Seasons1.jpg'}
+    ];
+
+    sponsor = sponsors[Math.floor(Math.random() * sponsors.length)];
+    document.write(
+      "<a href='" + sponsor.url + "'>" +
+        "<img src='" + sponsor.img + "' width='223'>" +
+      "</a>"
     );
   </script>
 
