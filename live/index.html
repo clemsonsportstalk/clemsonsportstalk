@@ -8,6 +8,8 @@ layout: default
       <img src='{{ sponsor.img }}' width='100'>
     </a>
   {% endfor %}
+</p>
+<p class='sponsors'>
   {% for sponsor in site.sponsors.secondary %}
     <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
       <img src='{{ sponsor.img }}' width='100'>
@@ -31,23 +33,7 @@ layout: default
   <p><strong>Twitter:</strong>  #TNTalk or @ClemsonSports</p>
   <p><strong>Email: </strong><a href="mailto:clemson81@gmail.com">clemson81@gmail.com</a>
 
-
-  <h3>Frequently Asked Questions:</h3>
-
-  <p>
-    <strong>Can I still be a part of the show if I listen to the podcast editions?</strong>
-    <br>
-    You know it! We won't leave anyone out of the discussions. You can
-    participate in the program 24 hours a day, 7 days a week.
-  </p>
-
-  <p>
-    <strong>So how do I call in when the show isn't on?</strong>
-    <br>
-    The phone line (1-803-450-0086) is always up and running or you can click
-    on &quot;Send Voicemail&quot; on the front page. If you listen to the podcast
-    version and you want your voice heard give us a call!
-  </p>
+  {% include faq.html %}
 
   <p>
     <table width="938" cellpadding='4' cellspacing='0' class='affiliates'>
