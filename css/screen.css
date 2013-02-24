@@ -422,3 +422,5 @@ article time { color: #aaa; font-family: serif; float: right; }
 footer { color: #fff; line-height: 14px; text-align: center; margin: 10px 4px 15px 0; }
 footer a { color: #fff; }
 footer hr { height: 3px; background: #ff5e04; border: solid 1px #e8e8e8; border-left: none; border-right: none; }
+
+.round { -webkit-border-radius: 5px; border-radius: 5px; -webkit-background-clip: padding-box; background-clip: padding-box; }
