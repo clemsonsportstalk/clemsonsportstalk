@@ -4,19 +4,21 @@ layout: default
 
 <div class='line'>
 	<div class='unit size4of5 radio'>
+
+    <p class='sponsors'>
+      {% for sponsor in site.sponsors.primary %}
+        <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
+          <img src='{{ sponsor.img }}' width='100'>
+        </a>
+      {% endfor %}
+      {% for sponsor in site.sponsors.secondary %}
+        <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
+          <img src='{{ sponsor.img }}' width='100'>
+        </a>
+      {% endfor %}
+    </p>
+
 		<div class='pam'>
-      <p align='center'>
-        {% for sponsor in site.sponsors.primary %}
-          <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
-            <img src='{{ sponsor.img }}'>
-          </a>
-        {% endfor %}
-        {% for sponsor in site.sponsors.secondary %}
-          <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
-            <img src='{{ sponsor.img }}'>
-          </a>
-        {% endfor %}
-      </p>
       <p>
         <hr>
         <div id='rssincl-box-container-617673'></div>
@@ -33,7 +35,7 @@ layout: default
       </p>
 		</div>
 	</div>
-	<div class='unit size1of5 sponsors'>
+	<div class='unit size1of5 ads'>
     {% include ads.html %}
 	</div>
 </div>

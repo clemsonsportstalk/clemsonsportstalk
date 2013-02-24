@@ -341,7 +341,7 @@ h3 {
     margin: 0 0 2px 0;
     text-transform: uppercase;
 }
-.about h2, .radio h2, .clemson-news h2, .sponsors h2 {
+.about h2, .radio h2, .clemson-news h2, .ads h2 {
     background: #3c1f59;
     color: #fff;
 }
@@ -363,7 +363,7 @@ h3 {
     padding: 0;
     width: 100%;
 }
-.sponsors {
+.ads {
     background: #ddd;
     text-align: center;
 }
@@ -408,3 +408,6 @@ footer hr { height: 3px; background: #ff5e04; border: solid 1px #e8e8e8; border-
 .round { -webkit-border-radius: 5px; border-radius: 5px; -webkit-background-clip: padding-box; background-clip: padding-box; }
 .body { background: #fff; }
 .side-nav { width: 225px; }
+
+.sponsors { text-align: center; }
+.sponsors a { text-decoration: none; }
