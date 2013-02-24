@@ -8,7 +8,7 @@ body {
     width: auto;
 }
 .body, .main {
-    *zoom: 1;
+  *zoom: 1;
 }
 .body:after, .main:after {
     clear: both;
@@ -322,20 +322,8 @@ a.logo {
     height: 205px;
     text-indent: -9999px;
 }
-.side-nav {
-    width: 225px;
-}
 .header-bg {
     background: url(/img/header.jpg) no-repeat;
-}
-.bg {
-    background: url(/img/bg.jpg);
-}
-.bg-alt {
-    background: url(/img/bg-alt.jpg);
-}
-.bg-white {
-    background: #fff;
 }
 h2 {
     margin: 0;
@@ -374,9 +362,6 @@ h3 {
 .podcasts-banner {
     padding: 0;
     width: 100%;
-}
-.extras {
-    background: #eee;
 }
 .sponsors {
     background: #ddd;
@@ -421,3 +406,5 @@ footer a { color: #fff; }
 footer hr { height: 3px; background: #ff5e04; border: solid 1px #e8e8e8; border-left: none; border-right: none; }
 
 .round { -webkit-border-radius: 5px; border-radius: 5px; -webkit-background-clip: padding-box; background-clip: padding-box; }
+.body { background: #fff; }
+.side-nav { width: 225px; }
