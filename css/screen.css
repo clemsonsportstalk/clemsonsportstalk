@@ -363,10 +363,7 @@ h3 {
     padding: 0;
     width: 100%;
 }
-.ads {
-    background: #ddd;
-    text-align: center;
-}
+.ads { text-align: center; }
 .tnt .podcast {
     background: #eee;
 }
