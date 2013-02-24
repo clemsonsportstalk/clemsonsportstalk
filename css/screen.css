@@ -172,40 +172,32 @@ ul {
 .donate a {
   text-decoration: none;
 }
-.slideshow {
-    height: 148px;
-    overflow: hidden;
-    border-top: solid 8px #ff5f01;
+.slideshow { height: 148px; overflow: hidden; border-top: solid 8px #ff5f01; }
+nav {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  height: 28px;
+  width: 100%;
+  background: #639;
+  border-bottom: solid 3px #fa6200;
 }
-ul.nav {
-    list-style-type: none;
-    border: 0;
-    padding: 0;
-    margin: 0;
-    width: 729px;
-    height: 28px;
-    background: #639;
-    border-bottom: solid 3px #fa6200;
-}
-ul.nav li {
-    display: block;
-    float: left;
-    border-bottom: solid 1px #fff;
-}
-ul.nav a {
+.nav-wrapper { border-right: solid 1px #fff; }
+nav ul { margin: 0; padding: 0; }
+nav div { border-bottom: solid 1px #fff; }
+nav li { list-style-type: none; display: inline-block; }
+nav a {
     margin: 3px 1px 0 1px;
-    padding: 0;
+    padding: 0 10px;
     border: 0;
     text-transform: uppercase;
-    display: block;
-    height: 24px;
-    float: left;
+    display: inline-block;
     font-family: orbitron, serif;
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: 1px;
     color: #fff;
     text-align: center;
-    line-height: 27px;
+    line-height: 23px;
     text-decoration: none;
     -moz-transition-property: all;
     -webkit-transition-property: all;
@@ -225,10 +217,8 @@ ul.nav a {
     transition-delay: 0;
     text-shadow: white 0 0 12px;
 }
-ul.nav li.active, ul.nav li:hover {
-    border-bottom: solid 1px #fa6200;
-}
-ul.nav li.active a, ul.nav li:hover a {
+nav li.active, nav li:hover { border-bottom: solid 1px #fa6200; position: relative; top: 1px; }
+nav li.active a, nav li:hover a {
     background-color: #fa6200;
     color: #000;
     -moz-border-radius-topleft: 3px;
@@ -243,30 +233,6 @@ ul.nav li.active a, ul.nav li:hover a {
     -ms-border-top-right-radius: 3px;
     -khtml-border-top-right-radius: 3px;
     border-top-right-radius: 3px;
-}
-.nav-home {
-    width: 67px;
-}
-.nav-live {
-    width: 125px;
-}
-.nav-tnt {
-    width: 124px;
-}
-.nav-hotline {
-    width: 157px;
-}
-.nav-radio {
-    width: 150px;
-}
-.nav-blog {
-    width: 62px;
-}
-.nav-itunes {
-    width: 75px;
-}
-.nav-about {
-    width: 80px;
 }
 a.logo-right {
     display: block;
