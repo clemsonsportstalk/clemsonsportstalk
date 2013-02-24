@@ -183,9 +183,6 @@ ul.shows a, ul.shows a:link, ul.shows a:visited, ul.shows a:active {
     color: #639;
     font-weight: bold;
 }
-ul.links, ul.episodes {
-    background: #e1e1e1;
-}
 ul.links li, ul.episodes li {
     border-top-color: #d2d2d2;
 }
@@ -214,7 +211,6 @@ ul.links a, ul.links a:link, ul.links a:visited, ul.links a:active, ul.episodes 
 }
 .donate {
     margin: 0;
-    background: #e1e1e1;
     text-align: center;
 }
 .donate a {
