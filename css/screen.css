@@ -330,6 +330,10 @@ footer hr { height: 3px; background: #ff5e04; border: solid 1px #e8e8e8; border-
 ul.shows { margin: 0; padding: 0; list-style-type: none; }
 ul.shows li { padding: 5px; }
 ul.shows li + li { border-top: solid 1px #eee; }
+
 /* Third party stylesheets (facebook or rssinclude?) sometimes override this,
  * hence the increased specificity. */
 ul.shows li a { color: #639; }
+p a { color: #639; }
+
+
