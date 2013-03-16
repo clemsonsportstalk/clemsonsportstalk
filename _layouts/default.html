@@ -19,110 +19,116 @@
 <body>
 <div class='page'>
 	<div class='body'>
-		<div class='header-bg'>
-			<div class='leftCol side-nav'>
-				<a class='logo' alt='Clemson Sports Talk - Home' href='/'>Clemson Sports Talk</a>
 
-        <div data-cycle class='slideshow'>
-          <img src='/img/side_photos/09.jpg'>
-          <img src='/img/side_photos/10.jpg' width='225' height='148'>
-          <img src='/img/side_photos/02.jpg'>
-          <img src='/img/side_photos/05.jpg'>
-          <img src='/img/side_photos/06.jpg'>
-          <img src='/img/side_photos/04.jpg'>
-          <img src='/img/side_photos/08.jpg'>
-          <img src='/img/side_photos/07.jpg'>
-          <img src='/img/side_photos/01.jpg'>
-          <img src='/img/side_photos/03.jpg'>
-        </div>
+    <a href='/' class='logo' title='Clemson Sports Talk'>
+      <img src='/img/logo-small.png'>
+    </a>
 
-        <h2>Our Links</h2>
-        <ul class='shows'>
-          <li><a href='/live/'>LIVE SHOW</a></li>
-          <li><a href='/tnt/'>TigerNet Talk</a></li>
-          <li><a href='http://clemson.libsyn.com' target='_blank'>Clemson Hotline</a></li>
-          <li><a href='http://www.tigernet.com' target='_blank'>TigerNet</a></li>
-          <li><a href='http://www.clemsontigers.com/' target='_blank'>Clemson Tigers</a></li>
-        </ul>
+    <a href='/' title='Clemson Sports Talk'>
+      <img src='/img/banner.jpg'>
+    </a>
 
-        <h2>Sponsored By</h2>
-        <div class='txtC'>
+    {% include nav.html %}
 
-          <script>
+    <div class='leftCol side-nav'>
 
-            var sponsors = [
-              {% for sponsor in site.sponsors.primary %}
-                {link: '{{ sponsor.link }}', img: '{{ sponsor.img }}', name: '{{ sponsor.name }}'}
-                {% unless forloop.last %},{% endunless %}
-              {% endfor %}
-            ];
+      <div data-cycle class='slideshow'>
+        <img src='/img/side_photos/09.jpg'>
+        <img src='/img/side_photos/10.jpg' width='225' height='148'>
+        <img src='/img/side_photos/02.jpg'>
+        <img src='/img/side_photos/05.jpg'>
+        <img src='/img/side_photos/06.jpg'>
+        <img src='/img/side_photos/04.jpg'>
+        <img src='/img/side_photos/08.jpg'>
+        <img src='/img/side_photos/07.jpg'>
+        <img src='/img/side_photos/01.jpg'>
+        <img src='/img/side_photos/03.jpg'>
+      </div>
 
-            var sponsor = sponsors[Math.floor(Math.random() * sponsors.length)];
-            document.write(
-              "<a href='" + sponsor.link + "' title='" + sponsor.name + "' target='_blank'>" +
-                "<img class='round' src='" + sponsor.img + "' style='margin: 3px;'>" +
-              "</a>"
-            );
+      <h2>Our Links</h2>
+      <ul class='shows'>
+        <li><a href='/live/'>LIVE SHOW</a></li>
+        <li><a href='/tnt/'>TigerNet Talk</a></li>
+        <li><a href='http://clemson.libsyn.com' target='_blank'>Clemson Hotline</a></li>
+        <li><a href='http://www.tigernet.com' target='_blank'>TigerNet</a></li>
+        <li><a href='http://www.clemsontigers.com/' target='_blank'>Clemson Tigers</a></li>
+      </ul>
 
-            sponsors = [
-              {% for sponsor in site.sponsors.secondary %}
-                {link: '{{ sponsor.link }}', img: '{{ sponsor.img }}', name: '{{ sponsor.name }}'}
-                {% unless forloop.last %},{% endunless %}
-              {% endfor %}
-            ];
+      <h2>Sponsored By</h2>
+      <div class='txtC'>
 
-            sponsor = sponsors[Math.floor(Math.random() * sponsors.length)];
-            document.write(
-              "<a href='" + sponsor.link + "' title='" + sponsor.name + "' target='_blank'>" +
-                "<img class='round' src='" + sponsor.img + "' style='margin: 3px;'>" +
-              "</a>"
-            );
-          </script>
+        <script>
 
-        </div>
-        <p class='txtC'>
-          <a href='/ads/'>Advertising Information</a>
+          var sponsors = [
+            {% for sponsor in site.sponsors.primary %}
+              {link: '{{ sponsor.link }}', img: '{{ sponsor.img }}', name: '{{ sponsor.name }}'}
+              {% unless forloop.last %},{% endunless %}
+            {% endfor %}
+          ];
+
+          var sponsor = sponsors[Math.floor(Math.random() * sponsors.length)];
+          document.write(
+            "<a href='" + sponsor.link + "' title='" + sponsor.name + "' target='_blank'>" +
+              "<img class='round' src='" + sponsor.img + "' style='margin: 3px;'>" +
+            "</a>"
+          );
+
+          sponsors = [
+            {% for sponsor in site.sponsors.secondary %}
+              {link: '{{ sponsor.link }}', img: '{{ sponsor.img }}', name: '{{ sponsor.name }}'}
+              {% unless forloop.last %},{% endunless %}
+            {% endfor %}
+          ];
+
+          sponsor = sponsors[Math.floor(Math.random() * sponsors.length)];
+          document.write(
+            "<a href='" + sponsor.link + "' title='" + sponsor.name + "' target='_blank'>" +
+              "<img class='round' src='" + sponsor.img + "' style='margin: 3px;'>" +
+            "</a>"
+          );
+        </script>
+
+      </div>
+      <p class='txtC'>
+        <a href='/ads/'>Advertising Information</a>
+      </p>
+
+      <h2>Social Media</h2>
+      <div class='donate pam'>
+        <a class='img-link' href='https://www.facebook.com/ClemsonSportsTalk'>
+          <img src='/img/Icons/facebook.png' width='30' height='30' longdesc='Facebook' >
+        </a>
+        <a class='img-link' href='http://twitter.com/clemsonsports'>
+          <img src='/img/Icons/twitter.png' width='30' height='30' longdesc='Twitter' >
+        </a>
+        <a class='img-link' href='http://www.google.com/reader/public/atom/user/03107298055788933099/bundle/Clemson Tigers'>
+          <img src='/img/Icons/RSS.png' width='30' height='30' longdesc='RSS' >
+        </a>
+        <a class='img-link' href='http://youtube.com/elswannmedia'>
+          <img src='/img/Icons/you-tube-logo.jpg' width='78' height='30' longdesc='YouTube' >
+        </a>
+
+        <br>
+
+        <div class='pam fb-like' data-href='http://www.facebook.com/clemsonsportstalk' data-send='true' data-layout='button_count' data-width='165' data-show-faces='false'></div>
+
+      </div>
+
+      <div class='donate pam'>
+
+        <a href='http://landing.stitcher.com/?vurl=CLEMSONPODCASTS'>
+          <img src='/img/bug_300x250.jpg' width='174' height='160'>
+        </a>
+        <p>
+          Promo Code: <strong>CLEMSONPODCASTS</strong>
         </p>
 
-        <h2>Social Media</h2>
-        <div class='donate pam'>
-          <a class='img-link' href='https://www.facebook.com/ClemsonSportsTalk'>
-            <img src='/img/Icons/facebook.png' width='30' height='30' longdesc='Facebook' >
-          </a>
-          <a class='img-link' href='http://twitter.com/clemsonsports'>
-            <img src='/img/Icons/twitter.png' width='30' height='30' longdesc='Twitter' >
-          </a>
-          <a class='img-link' href='http://www.google.com/reader/public/atom/user/03107298055788933099/bundle/Clemson Tigers'>
-            <img src='/img/Icons/RSS.png' width='30' height='30' longdesc='RSS' >
-          </a>
-          <a class='img-link' href='http://youtube.com/elswannmedia'>
-            <img src='/img/Icons/you-tube-logo.jpg' width='78' height='30' longdesc='YouTube' >
-          </a>
-
-          <br>
-
-          <div class='pam fb-like' data-href='http://www.facebook.com/clemsonsportstalk' data-send='true' data-layout='button_count' data-width='165' data-show-faces='false'></div>
-
-        </div>
-
-        <div class='donate pam'>
-
-          <a href='http://landing.stitcher.com/?vurl=CLEMSONPODCASTS'>
-            <img src='/img/bug_300x250.jpg' width='174' height='160'>
-          </a>
-          <p>
-            Promo Code: <strong>CLEMSONPODCASTS</strong>
-          </p>
-
-        </div>
-			</div>
-			<div class='main'>
-				<a class='logo-right' alt='Clemson Sports Talk - Home' href='/'>Clemson Sports Talk</a>
-        {% include nav.html %}
-        {{ content }}
-			</div>
-		</div>
-	</div>
+      </div>
+    </div>
+    <div class='main'>
+      {{ content }}
+    </div>
+  </div>
   <footer>
 		<hr>
     &copy; 2013 Clemson Sports Talk. All Rights Reserved -
