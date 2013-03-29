@@ -8,9 +8,11 @@ body {
     *display: block;
     width: auto;
 }
+.body {
+  padding: 0 1px 0 1px;
+}
 .body, .main {
   *zoom: 1;
-  padding: 0 1px 0 1px;
   position: relative;
 }
 .body:after, .main:after {
