@@ -10,14 +10,18 @@ sponsors:
       link: 'http://www.crosscreektimber.com'
       img: /img/Sponsors/Cross_Creek1.jpg
     -
-      name: Cross Creek Realty
-      link: 'http://www.crosscreekrealtyllc.com'
-      img: /img/Sponsors/CCRealty.jpg
-  secondary:
-    -
       name: Peaceful Dentistry
       link: 'http://www.peacefuldentistry.com'
       img: /img/Sponsors/GDOG1.jpg
+    -
+      name: CMH 
+      link: 'http://www.cmhservices.net/'
+      img: /img/Sponsors/CMH1.jpg    
+    -
+      name: Lake Murray Times
+      link: 'http://lakemurraytimes.com/'
+      img: /img/Sponsors/LakeMurrayTimes.jpg 
+  secondary:
     -
       name: Edisto Outdoors
       link: 'http://www.edistooutdoors.com'
@@ -34,3 +38,7 @@ sponsors:
       name: Tigertown Graphics
       link: 'http://www.tigertowngraphics.com/'
       img: '/img/Sponsors/tigertown-small.jpg'
+    -
+      name: Cross Creek Realty
+      link: 'http://www.crosscreekrealtyllc.com'
+      img: /img/Sponsors/CCRealty.jpg
