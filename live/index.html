@@ -1,13 +1,6 @@
 ---
 layout: default
 ---
-<p class='sponsors'>
-  {% for sponsor in site.sponsors.primary %}
-    <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
-      <img src='{{ sponsor.img }}' width='100'>
-    </a>
-  {% endfor %}
-</p>
 
 <div class="pam">
 
@@ -20,6 +13,13 @@ We want the chat to be a pleasant and safe place for all chatters. The primary f
 5. Do not repeat yourself over and over to try to get noticed, as this is disruptive to the chat. <p>
 
 The most important (and simplest) rule: Use common sense, and don't be a jerk.<p>
+<p class='sponsors'>
+  {% for sponsor in site.sponsors.primary %}
+    <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
+      <img src='{{ sponsor.img }}' width='100'>
+    </a>
+  {% endfor %}
+</p>
 <a href='http://www.iheart.com/live/2069/?autoplay=true' target='_blank'>Listen Live</a>
 </div>
 <div class="pam">
@@ -36,7 +36,17 @@ The most important (and simplest) rule: Use common sense, and don't be a jerk.<p
 <!--<iframe id="spreecast-player" type="text/html" width="100%" height="725" src="http://www.spreecast.com/channels/clemson-sports-talk/embed-large" frameborder="0"></iframe></!-->
 
 <article>
-  <h3>How can I be a part of the program?</h3>
+<h3>Schedule</h3>
+      <ul>
+        <li>
+          <strong>Clemson Sports Talk</strong> -- Monday - Friday, 6-8PM on <a href='http://www.560theteam.com/main.html'>560AM The Team </a>
+        </li>
+        <li>
+          <strong>TigerNet Talk</strong> -- Sunday, 9PM on <a href='http://www.ClemsonSportsTalk.com/live'>Clemson Sports Talk </a> and <a href='http://www.tigernet.com'>TigerNet </a>
+        </li>
+      </ul>
+	  <p>
+    <h3>How can I be a part of the program?</h3>
   
   {% include faq.html %}
 
