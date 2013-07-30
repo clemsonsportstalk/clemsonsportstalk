@@ -18,9 +18,13 @@ sponsors:
       link: 'http://www.cmhservices.net/'
       img: /img/Sponsors/CMH1.jpg    
     -
-      name: Lake Murray Times
-      link: 'http://lakemurraytimes.com/'
-      img: /img/Sponsors/LakeMurrayTimes.jpg 
+      name: Caughmans
+      link: 'http://www.caughmanmeats.com'
+      img: /img/Sponsors/Meat.jpg 
+    -
+      name: Raymond James Financial
+      link: 'http://www.christopherbbenson.com/'
+      img: /img/Sponsors/raymondjames.jpg 
   secondary:
     -
       name: Chapin Pharmacy
@@ -31,9 +35,9 @@ sponsors:
       link: 'http://www.edistooutdoors.com'
       img: /img/Sponsors/EO1.jpg
     -
-      name: Caughman
-      link: 'http://www.caughmanmeats.com'
-      img: /img/Sponsors/Meat.jpg
+      name: Lake Murray Times
+      link: 'http://lakemurraytimes.com/'
+      img: /img/Sponsors/LakeMurrayTimes.jpg
     -
       name: Cross Creek Realty
       link: 'http://www.crosscreekrealtyllc.com'
