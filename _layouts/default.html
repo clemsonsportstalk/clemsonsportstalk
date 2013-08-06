@@ -46,16 +46,18 @@
       </div>
 
       <h2>Our Links</h2>
-      <ul class='shows'> <li><a href='/live/'>LIVE SHOW</a></li>
-	  <li><a href='http://www.tigernet.com' target='_blank'>TigerNet</a></li>
-      <li><a href='http://www.560theteam.com/main.html' target='_blank'>560AM The Team</a></li>
-      <li><a href='/tnt/'>Archives</a></li>
+      <ul class='shows'>
+        <li><a href='/live/'>LIVE SHOW</a></li>
+        <li><a href='http://www.tigernet.com' target='_blank'>TigerNet</a></li>
+        <li><a href='http://www.560theteam.com/main.html' target='_blank'>560AM The Team</a></li>
+        <li><a href='/tnt/'>Archives</a></li>
       </ul>
 
       <h2>Sponsored By</h2>
       <div class='txtC'>
 
         <script>
+          (function() {
 
           var sponsors = [
             {% for sponsor in site.sponsors.primary %}
@@ -84,6 +86,8 @@
               "<img class='round' src='" + sponsor.img + "' style='margin: 3px;'>" +
             "</a>"
           );
+
+          })();
         </script>
 
       </div>
@@ -92,8 +96,10 @@
       </p>
 
       <h2>Social Media</h2>
-	  <div>
-      <a href="http://www.iheart.com/live/2069/?autoplay=true" target="_blank"><img src='/img/560&iheart_1.jpg' width='100%'></a>
+      <div>
+        <a href='http://www.iheart.com/live/2069/?autoplay=true' target='_blank'>
+          <img src='/img/560&iheart_1.jpg' width='100%'>
+        </a>
       </div>
       <div class='donate pam'>
         <a class='img-link' href='https://www.facebook.com/ClemsonSportsTalk'>
@@ -115,9 +121,11 @@
 
       </div>
 
-<div>
-<a href="http://www.directv.com/DTVAPP/new_customer/base_packages.jsp?preSelectedSkuId=sku170004" target="_blank"><img src='/img/Sponsors/Directv.jpg' width='100%'></a>
-</div>
+      <div>
+        <a href='http://www.directv.com/DTVAPP/new_customer/base_packages.jsp?preSelectedSkuId=sku170004' target='_blank'>
+          <img src='/img/Sponsors/Directv.jpg' width='100%'>
+        </a>
+      </div>
     </div>
 
     <div class='main'>
