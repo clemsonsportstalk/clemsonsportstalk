@@ -311,7 +311,7 @@ article img { -webkit-border-radius: 3px; border-radius: 3px; -webkit-background
 article img, article iframe { display: block; margin: 0 auto; max-width: 90%; }
 article h1 a, article h2 a, article h3 a, article h4 a, article h5 a, article h6 a { text-decoration: none; color: #000; }
 article h2 { font-size: 25px; }
-article h3 { font-family: 'Orbitron'; font-size: 18px; margin: 20px 10px 10px 10px; }
+article h3 { font-family: 'Orbitron'; font-size: 22px; margin: 20px 10px 10px 10px; }
 article time { color: #aaa; float: right; }
 article img.right { float: right; margin: 15px; }
 article a { color: #639; }
