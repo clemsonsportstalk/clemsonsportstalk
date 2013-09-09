@@ -334,6 +334,8 @@ footer hr { height: 3px; background: #ff5e04; border: solid 1px #e8e8e8; border-
 .sponsors { text-align: center; }
 .sponsors a { text-decoration: none; }
 
+.sponsored-by img { max-width: 95%; padding: 3px; }
+
 ul.shows { margin: 0; padding: 0; list-style-type: none; }
 ul.shows li { padding: 5px; }
 ul.shows li + li { border-top: solid 1px #eee; }
