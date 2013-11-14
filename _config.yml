@@ -6,10 +6,6 @@ redcarpet:
 sponsors:
   primary:
     -
-      name: Cross Creek Timber
-      link: 'http://www.crosscreektimber.com'
-      img: /img/Sponsors/Cross_Creek1.jpg
-    -
       name: Peaceful Dentistry
       link: 'http://www.peacefuldentistry.com'
       img: /img/Sponsors/GDOG1.jpg
@@ -50,10 +46,6 @@ sponsors:
       name: Lake Murray Times
       link: 'http://lakemurraytimes.com/'
       img: /img/Sponsors/LakeMurrayTimes.jpg
-    -
-      name: Cross Creek Realty
-      link: 'http://www.crosscreekrealtyllc.com'
-      img: /img/Sponsors/CCRealty.jpg
     -
       name: SCFBINS
       link: 'http://scfbins.com/agents/blake-austin/'
