@@ -4,6 +4,15 @@ markdown: redcarpet
 redcarpet:
   extensions: ['autolink', 'smart']
 sponsors:
+  banners:
+    -
+      name: Ken Berger
+      link: 'http://www.bergerlawsc.com/'
+      img: /img/Sponsors/berger.jpg
+    -
+      name: Tiger Paw Traditions
+      link: 'http://www.tigerpawtraditions.com/default.aspx?ad_id=clsptk'
+      img: /img/Sponsors/tpt-banner.jpg
   primary:
     -
       name: Peaceful Dentistry

@@ -5,6 +5,28 @@ layout: default
 <div class='line'>
   <div class='unit size2of3 clemson-news' style="background:white;">
 
+        <script>
+          (function() {
+
+          var banners = [
+            {% for banner in site.sponsors.banners %}
+              {link: '{{ banner.link }}', img: '{{ banner.img }}', name: '{{ banner.name }}'}
+              {% unless forloop.last %},{% endunless %}
+            {% endfor %}
+          ];
+
+          var banner = banners[Math.floor(Math.random() * banners.length)];
+          document.write(
+            "<div style='text-align: center;'>" +
+              "<a href='" + banner.link + "' title='" + banner.name + "' target='_blank'>" +
+                "<img src='" + banner.img + "' style='max-width: 100%;'>" +
+              "</a>" +
+            "</div>"
+          );
+
+          })();
+        </script>
+
     <div class='pam'>
       <script type="text/javascript" src="http://app.feed.informer.com/digest3/SXQXHYZENN.js"></script>
       <noscript>
