@@ -33,6 +33,10 @@ sponsors:
       name: Lexington Medical Center
       link: 'http://www.lexmed.com/'
       img: /img/Sponsors/lexmed.jpg
+    -
+      name: Tiger Paw Traditions
+      link: 'http://www.tigerpawtraditions.com/default.aspx?ad_id=clsptk'
+      img: /img/Sponsors/tpt.jpg
   secondary:
     -
       name: Chapin Pharmacy
