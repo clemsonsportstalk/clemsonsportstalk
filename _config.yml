@@ -9,19 +9,11 @@ sponsors:
       name: Ken Berger
       link: 'http://www.bergerlawsc.com/'
       img: /img/Sponsors/berger-small.jpg
-    -
-      name: Tiger Paw Traditions
-      link: 'http://www.tigerpawtraditions.com/default.aspx?ad_id=clsptk'
-      img: /img/Sponsors/tpt-banner.jpg
   primary:
     -
       name: Peaceful Dentistry
       link: 'http://www.peacefuldentistry.com'
       img: /img/Sponsors/GDOG1.jpg
-    -
-      name: CMH
-      link: 'http://www.cmhservices.net/'
-      img: /img/Sponsors/CMH1.jpg
     -
       name: Caughmans
       link: 'http://www.caughmanmeats.com'
@@ -42,10 +34,6 @@ sponsors:
       name: Lexington Medical Center
       link: 'http://www.lexmed.com/'
       img: /img/Sponsors/lexmed.jpg
-    -
-      name: Tiger Paw Traditions
-      link: 'http://www.tigerpawtraditions.com/default.aspx?ad_id=clsptk'
-      img: /img/Sponsors/tpt.jpg
   secondary:
     -
       name: Chapin Pharmacy
