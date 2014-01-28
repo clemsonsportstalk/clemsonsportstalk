@@ -4,8 +4,14 @@ layout: default
 
 <div class='line'>
   <div class='unit size5of5 radio'>
-
-    <p class='sponsors'>
+    <div class='pam'>
+     <img src='/img/app-ad-large.jpg' width='100%'>
+    <div style='text-align: center;'>
+      <a href='http://tinyurl.com/CSTiphone'>Download For iPhone</a>
+      or
+      <a href='http://tinyurl.com/CSTandroid'>Download For Android</a>
+       
+       <p class='sponsors'>
       {% for sponsor in site.sponsors.primary %}
         <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
           <img src='{{ sponsor.img }}' width='100'>
@@ -19,15 +25,8 @@ layout: default
         </a>
       {% endfor %}
     </p>
-
-    <div class='pam'>
-     <img src='/img/app-ad-large.jpg' width='100%'>
-    <div style='text-align: center;'>
-      <a href='http://tinyurl.com/CSTiphone'>Download For iPhone</a>
-      or
-      <a href='http://tinyurl.com/CSTandroid'>Download For Android</a>
     </div>
-    The Clemson Sports Talk App
+   
       <p class='txtC'>
         Email: <a href='mailto:clemson81@gmail.com'>clemson81@gmail.com</a>
       </p>
