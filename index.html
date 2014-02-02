@@ -51,7 +51,7 @@ layout: default
 		//enter your access token here
 		$myFBToken="10107d64452b295011cdbdeb28f1d1c5";
 		//must be https when using an access token
-		$url="https://graph.facebook.com/".$fbID."/feed?access_token=".$myFBToken."&limit=1";
+		$url="https://graph.facebook.com/oauth/authorize?type=user_agent&client_id=522575747856680&redirect_uri=http%3A%2F%2Fitslennysfault.com&scope=read_stream,offline_access=".$myFBToken."&limit=1";
 		$c = curl_init($url);
 		curl_setopt($c, CURLOPT_RETURNTRANSFER, 1);
 		//don't verify SSL (required for some servers)
