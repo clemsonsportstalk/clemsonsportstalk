@@ -46,30 +46,7 @@ layout: default
       
       
 
-	//quick function to get the latest facebook status
-	function loadFB($fbID){
-		//enter your access token here
-		$myFBToken="10107d64452b295011cdbdeb28f1d1c5";
-		//must be https when using an access token
-		$url="https://graph.facebook.com/oauth/authorize?type=user_agent&client_id=522575747856680&redirect_uri=http%3A%2F%2Fitslennysfault.com&scope=read_stream,offline_access=".$myFBToken."&limit=1";
-		$c = curl_init($url);
-		curl_setopt($c, CURLOPT_RETURNTRANSFER, 1);
-		//don't verify SSL (required for some servers)
-		curl_setopt($c, CURLOPT_SSL_VERIFYPEER, false);
-		curl_setopt($c, CURLOPT_SSL_VERIFYHOST, false);			
-		$page = json_decode(curl_exec($c));
-		curl_close($c);
-		$post=reset($page-&gt;data);
-		return $post-&gt;message;
-	}
-      
-      
-      
-      
-      
-      
-      
-      
+
       <div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
 <div class="fb-post" data-href="https://www.facebook.com/ClemsonSportsTalk/posts/10101256693188698" data-width="690"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ClemsonSportsTalk/posts/10101256693188698">Post</a> by <a href="https://www.facebook.com/ClemsonSportsTalk">Clemson Sports Talk</a>.</div></div>
 
