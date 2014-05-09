@@ -32,10 +32,6 @@ sponsors:
       img: /img/Sponsors/James_F_Martin1.jpg
   secondary:
     -
-      name: Chapin Pharmacy
-      link: 'http://www.chapinpharmacy.com/'
-      img: /img/Sponsors/chapinmed.jpg
-    -
       name: Edisto Outdoors
       link: 'http://www.edistooutdoors.com'
       img: /img/Sponsors/EO1.jpg
@@ -44,6 +40,10 @@ sponsors:
       link: 'http://lakemurraytimes.com/'
       img: /img/Sponsors/LakeMurrayTimes.jpg
     -
-      name: SCFBINS
-      link: 'http://scfbins.com/agents/blake-austin/'
-      img: /img/Sponsors/FB1.jpg
+      name: Econobug
+      link: 'http://www.econobugpestcontrol.com/'
+      img: /img/Sponsors/econobug.jpg
+    -
+      name: Palmetto Ground Services
+      link: 'http://www.palmettogroundsservices.com/'
+      img: /img/Sponsors/pgroundservices.jpg
