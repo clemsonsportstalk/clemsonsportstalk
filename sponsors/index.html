@@ -5,23 +5,23 @@ layout: default
 <div class='sponsors'>
 
   {% for sponsor in site.sponsors.primary %}
-    <div style='display: inline-block; margin: 15px; padding: 5px; border: solid 1px #999; border-radius: 5px; text-align: center;'>
-      <a href='{{ sponsor.link }}' title='{{ sponsor.name }}' class='sponsor-link'>
-        <img src='{{ sponsor.img }}' width='130'>
-      </a>
+    <a href='{{ sponsor.link }}' class='sponsor'>
+      <img src='{{ sponsor.img }}'>
       <br>
-      <h4>{{ sponsor.name }}</h4>
-    </div>
+      <div class='sponsor-title'>
+        <h4>{{ sponsor.name }}</h4>
+      </div>
+    </a>
   {% endfor %}
 
   {% for sponsor in site.sponsors.secondary %}
-    <div style='display: inline-block; margin: 15px; padding: 5px; border: solid 1px #999; border-radius: 5px; text-align: center;'>
-      <a href='{{ sponsor.link }}' title='{{ sponsor.name }}' class='sponsor-link'>
-        <img src='{{ sponsor.img }}' width='130'>
-      </a>
+    <a href='{{ sponsor.link }}' class='sponsor'>
+      <img src='{{ sponsor.img }}'>
       <br>
-      <h4>{{ sponsor.name }}</h4>
-    </div>
+      <div class='sponsor-title'>
+        <h4>{{ sponsor.name }}</h4>
+      </div>
+    </a>
   {% endfor %}
 
 </div>

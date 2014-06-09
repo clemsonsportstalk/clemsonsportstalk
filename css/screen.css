@@ -333,6 +333,25 @@ footer hr { height: 3px; background: #ff5e04; border: solid 1px #e8e8e8; border-
 
 .sponsors { text-align: center; }
 .sponsors a { text-decoration: none; }
+.sponsor {
+  display: inline-block;
+  margin: 15px;
+  border: solid 1px #639;
+  border-radius: 5px;
+  text-align: center;
+  overflow: hidden;
+}
+.sponsor img {
+  margin: 10px;
+}
+.sponsor-title {
+  padding: 5px;
+  color: white;
+  background-color: #639;
+}
+.sponsor-title a {
+  color: white;
+}
 
 .sponsored-by img { max-width: 95%; padding: 3px; }
 
