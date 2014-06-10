@@ -30,6 +30,14 @@ sponsors:
       name: James F. Martin Inn
       link: 'http://www.clemson.edu/centers-institutes/madren/inn'
       img: /img/Sponsors/James_F_Martin1.jpg
+    -
+      name: "Frank's Car Wash"
+      link: 'http://www.frankscarwash.com/'
+      img: /img/Sponsors/Franks.jpg
+    -
+      name: "Cellular Source"
+      link: 'http://www.cellularsourcestore.com/'
+      img: /img/Sponsors/cellsource.jpg
   secondary:
     -
       name: Edisto Outdoors
