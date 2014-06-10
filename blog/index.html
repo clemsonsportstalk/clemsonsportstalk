@@ -30,14 +30,14 @@ layout: default
       <div style='text-align: center;'>
        <p class='sponsors'>
       {% for sponsor in site.sponsors.primary %}
-        <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
+        <a href='{{ sponsor.link }}' title='{{ sponsor.name | xml_escape }}'>
           <img src='{{ sponsor.img }}' width='100'>
         </a>
       {% endfor %}
     </p>
     <p class='sponsors'>
       {% for sponsor in site.sponsors.secondary %}
-        <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
+        <a href='{{ sponsor.link }}' title='{{ sponsor.name | xml_escape }}'>
           <img src='{{ sponsor.img }}' width='100'>
         </a>
       {% endfor %}

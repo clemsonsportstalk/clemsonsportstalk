@@ -44,7 +44,7 @@ layout: default
       <img src='{{ sponsor.img }}'>
       <br>
       <div class='sponsor-title'>
-        <h4>{{ sponsor.name }}</h4>
+        <h4>{{ sponsor.name | xml_escape }}</h4>
       </div>
     </a>
   {% endfor %}
@@ -54,7 +54,7 @@ layout: default
       <img src='{{ sponsor.img }}'>
       <br>
       <div class='sponsor-title'>
-        <h4>{{ sponsor.name }}</h4>
+        <h4>{{ sponsor.name | xml_escape }}</h4>
       </div>
     </a>
   {% endfor %}

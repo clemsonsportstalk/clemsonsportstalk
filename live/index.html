@@ -30,7 +30,7 @@ layout: default
    
    <p class='sponsors'>
     {% for sponsor in site.sponsors.primary %}
-      <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
+      <a href='{{ sponsor.link }}' title='{{ sponsor.name | xml_escape }}'>
         <img src='{{ sponsor.img }}' width='130'>
       </a>
     {% endfor %}
@@ -44,7 +44,7 @@ layout: default
 
 <p class='sponsors'>
   {% for sponsor in site.sponsors.secondary %}
-    <a href='{{ sponsor.link }}' title='{{ sponsor.name }}'>
+    <a href='{{ sponsor.link }}' title='{{ sponsor.name | xml_escape }}'>
       <img src='{{ sponsor.img }}' width='130'>
     </a>
   {% endfor %}

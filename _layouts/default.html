@@ -73,7 +73,7 @@
 
           var sponsors = [
             {% for sponsor in site.sponsors.primary %}
-              {link: '{{ sponsor.link }}', img: '{{ sponsor.img }}', name: '{{ sponsor.name }}'}
+              {link: '{{ sponsor.link }}', img: '{{ sponsor.img }}', name: '{{ sponsor.name | xml_escape }}'}
               {% unless forloop.last %},{% endunless %}
             {% endfor %}
           ];
@@ -87,7 +87,7 @@
 
           sponsors = [
             {% for sponsor in site.sponsors.secondary %}
-              {link: '{{ sponsor.link }}', img: '{{ sponsor.img }}', name: '{{ sponsor.name }}'}
+              {link: '{{ sponsor.link }}', img: '{{ sponsor.img }}', name: '{{ sponsor.name | xml_escape }}'}
               {% unless forloop.last %},{% endunless %}
             {% endfor %}
           ];
