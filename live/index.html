@@ -19,7 +19,13 @@ layout: default
    <div><script id="sid0010000063531185167">(function() {function async_load(){s.id="cid0010000063531185167";s.src='http://st.chatango.com/js/gz/emb.js';s.style.cssText="width:698px;height:600px;";s.async=true;s.text='{"handle":"clemsonsports","styles":{"b":100,"v":0,"w":0}}';var ss = document.getElementsByTagName('script');for (var i=0, l=ss.length; i < l; i++){if (ss[i].id=='sid0010000063531185167'){ss[i].id +='_';ss[i].parentNode.insertBefore(s, ss[i]);break;}}}var s=document.createElement('script');if (s.async==undefined){if (window.addEventListener) {addEventListener('load',async_load,false);}else if (window.attachEvent) {attachEvent('onload',async_load);}}else {async_load();}})();</script>
    </div>
    
-   
+   <p class='sponsors'>
+  {% for sponsor in site.sponsors.secondary %}
+    <a href='{{ sponsor.link }}' title='{{ sponsor.name | xml_escape }}'>
+      <img src='{{ sponsor.img }}' width='130'>
+    </a>
+  {% endfor %}
+</p>
    <!--<script id="sid0020000054900826899">(function() {function async_load(){s.id="cid0020000054900826899";s.src='http://st.chatango.com/js/gz/emb.js';s.style.cssText="width:698px;height:550px;";s.async=true;s.text='{"handle":"clemsonsports","arch":"js","styles":{"a":"C5C5C5","b":100,"c":"FFFFFF","d":"FFFFFF","k":"3C1F59","l":"3C1F59","m":"3C1F59","n":"FFFFFF","o":64,"q":"ffffff","r":100,"t":0,"usricon":0.98,"surl":0,"allowpm":0,"cnrs":"0.35"}}';var ss = document.getElementsByTagName('script');for (var i=0, l=ss.length; i < l; i++){if (ss[i].id=='sid0020000054900826899'){ss[i].id +='_';ss[i].parentNode.insertBefore(s, ss[i]);break;}}}var s=document.createElement('script');if (s.async==undefined){if (window.addEventListener) {addEventListener('load',async_load,false);}else if (window.attachEvent) {attachEvent('onload',async_load);}}else {async_load();}})();</script>
 
   --> 
@@ -38,18 +44,6 @@ layout: default
 </div>
 
 <div class='pam'>
-
-
-                    
-
-<p class='sponsors'>
-  {% for sponsor in site.sponsors.secondary %}
-    <a href='{{ sponsor.link }}' title='{{ sponsor.name | xml_escape }}'>
-      <img src='{{ sponsor.img }}' width='130'>
-    </a>
-  {% endfor %}
-</p>
-
 
   <h2>How can I participate?</h2>
   
