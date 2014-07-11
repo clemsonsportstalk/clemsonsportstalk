@@ -26,14 +26,7 @@ sponsors:
       name: James F. Martin Inn
       link: 'http://www.clemson.edu/centers-institutes/madren/inn'
       img: /img/Sponsors/James_F_Martin1.jpg
-    -
-      name: "Cellular Source"
-      link: 'http://www.cellularsourcestore.com/'
-      img: /img/Sponsors/cellsource.jpg
-    -
-      name: "Meridian Printing"
-      link: 'http://mbspromo.com/'
-      img: /img/Sponsors/meridian.jpg
+    
   secondary:
     -
       name: Edisto Outdoors
@@ -43,3 +36,11 @@ sponsors:
       name: Palmetto Ground Services
       link: 'http://www.palmettogroundsservices.com/'
       img: /img/Sponsors/pgroundservices.jpg
+    -
+      name: "Cellular Source"
+      link: 'http://www.cellularsourcestore.com/'
+      img: /img/Sponsors/cellsource.jpg
+    -
+      name: "Meridian Printing"
+      link: 'http://mbspromo.com/'
+      img: /img/Sponsors/meridian.jpg
