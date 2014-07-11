@@ -5,6 +5,7 @@ redcarpet:
   extensions: ['autolink', 'smart']
 sponsors:
   banners:
+  primary:
     -
       name: Gentle Dentistry
       link: 'http://www.peacefuldentistry.com'
