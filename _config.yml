@@ -6,11 +6,6 @@ redcarpet:
 sponsors:
   banners:
     -
-      name: Ken Berger
-      link: 'http://www.bergerlawsc.com/'
-      img: /img/Sponsors/berger-small.jpg
-  primary:
-    -
       name: Gentle Dentistry
       link: 'http://www.peacefuldentistry.com'
       img: /img/Sponsors/GDOG1.jpg
@@ -31,10 +26,6 @@ sponsors:
       link: 'http://www.clemson.edu/centers-institutes/madren/inn'
       img: /img/Sponsors/James_F_Martin1.jpg
     -
-      name: "Frank's Car Wash"
-      link: 'http://www.frankscarwash.com/'
-      img: /img/Sponsors/franks.jpg
-    -
       name: "Cellular Source"
       link: 'http://www.cellularsourcestore.com/'
       img: /img/Sponsors/cellsource.jpg
@@ -47,14 +38,6 @@ sponsors:
       name: Edisto Outdoors
       link: 'http://www.edistooutdoors.com'
       img: /img/Sponsors/EO1.jpg
-    -
-      name: Lake Murray Times
-      link: 'http://lakemurraytimes.com/'
-      img: /img/Sponsors/LakeMurrayTimes.jpg
-    -
-      name: Econobug
-      link: 'http://www.econobugpestcontrol.com/'
-      img: /img/Sponsors/econobug.jpg
     -
       name: Palmetto Ground Services
       link: 'http://www.palmettogroundsservices.com/'
