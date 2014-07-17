@@ -4,7 +4,7 @@ layout: default
 
 <div class='line'>
   <div class='unit size5of5 radio'>
-    <h2>Paw of Fame</h2>
+    <h2>The Paw of Fame</h2>
     <div class='pam'>
      <img src='/img/app-ad-large.jpg' width='100%'>
     <div style='text-align: center;'>
@@ -12,8 +12,7 @@ layout: default
       or
       <a href='http://tinyurl.com/CSTandroid'>Download For Android</a>
         </div>
-
-   <div style='text-align: left;'>
+        <div style='text-align: left;'>
        <p></p>
        <center><H3>Clemson Sports Talk App</H3></center>
       <p>
@@ -28,3 +27,27 @@ layout: default
       locate tickets in Death Valley.
       <p>
       </div>
+      <div style='text-align: center;'>
+       <p class='sponsors'>
+      {% for sponsor in site.sponsors.primary %}
+        <a href='{{ sponsor.link }}' title='{{ sponsor.name | xml_escape }}'>
+          <img src='{{ sponsor.img }}' width='100'>
+        </a>
+      {% endfor %}
+    </p>
+    <p class='sponsors'>
+      {% for sponsor in site.sponsors.secondary %}
+        <a href='{{ sponsor.link }}' title='{{ sponsor.name | xml_escape }}'>
+          <img src='{{ sponsor.img }}' width='100'>
+        </a>
+      {% endfor %}
+    </p>
+    </div>
+   
+      <p class='txtC'>
+        Email: <a href='mailto:clemson81@gmail.com'>clemson81@gmail.com</a>
+      </p>
+    </div>
+  </div>
+  
+</div>
