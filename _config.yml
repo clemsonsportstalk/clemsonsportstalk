@@ -31,7 +31,7 @@ sponsors:
     -
       name: Lexington Medical Center
       link: 'http://www.lexmed.com//'
-      img: /img/Sponsors/lexmed.jpg
+      img: /img/Sponsors/lexmed.jpg height="90" width="160"
     -
       name: "Cellular Source"
       link: 'http://www.cellularsourcestore.com/'
