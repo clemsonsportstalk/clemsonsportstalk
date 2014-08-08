@@ -22,6 +22,18 @@ sponsors:
       name: 'Woodward, Cothran & Herndon'
       link: 'http://www.wchlaw.com/'
       img: /img/Sponsors/wchlaw.jpg
+    -
+      name: 'The Hobbs Group'
+      link: 'http://www.hobbscpa.com/'
+      img: /img/Sponsors/hobbs.jpg
+    -
+      name: 'Midlands Veterinary Practice'
+      link: 'http://mvpdvm.vetsuite.com/'
+      img: '/img/Sponsors/midlands-vet.jpg'
+    -
+      name: 'Black Water Marine'
+      link: 'http://www.lakemurrayboatrepair.com/'
+      img: '/img/Sponsors/blackwater.jpg'
     
   secondary:
     -
