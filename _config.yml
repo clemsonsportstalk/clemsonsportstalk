@@ -35,9 +35,9 @@ sponsors:
       link: 'http://www.ismartmobilemarketing.com/'
       img: '/img/Sponsors/isportz.png'
     -
-      name: 'iSmart Mobile Marketing'
-      link: 'http://www.ismartmobilemarketing.com/'
-      img: '/img/Sponsors/ismart.png'
+      name: CMH Services
+      link: 'http://cmhservices.net/'
+      img: /img/Sponsors/CMH1.jpg
     
   secondary:
     -
@@ -45,13 +45,13 @@ sponsors:
       link: 'http://www.edistooutdoors.com'
       img: /img/Sponsors/EO1.jpg
     -
-      name: CMH Services
-      link: 'http://cmhservices.net/'
-      img: /img/Sponsors/CMH1.jpg
-    -
       name: Meridian Printing
       link: 'http://mbspromo.com/'
       img: /img/Sponsors/meridian.jpg
+    -
+      name: 'iSmart Mobile Marketing'
+      link: 'http://www.ismartmobilemarketing.com/'
+      img: '/img/Sponsors/ismart.png'
     -
       name: Lexington Medical Center
       link: 'http://www.lexmed.com/'
