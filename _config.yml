@@ -34,14 +34,6 @@ sponsors:
       name: 'iSportz Athletics'
       link: 'http://www.ismartmobilemarketing.com/'
       img: '/img/Sponsors/isportz.png'
-    -
-      name: CMH Services
-      link: 'http://cmhservices.net/'
-      img: /img/Sponsors/CMH1.jpg
-    -
-      name: HealthSource Chiropractic
-      link: 'https://healthsourcechiro.com/'
-      img: /img/Sponsors/healthsource.jpg
     
   secondary:
     -
@@ -52,6 +44,10 @@ sponsors:
       name: Meridian Printing
       link: 'http://mbspromo.com/'
       img: /img/Sponsors/meridian.jpg
+    -
+      name: CMH Services
+      link: 'http://cmhservices.net/'
+      img: /img/Sponsors/CMH1.jpg
     -
       name: 'iSmart Mobile Marketing'
       link: 'http://www.ismartmobilemarketing.com/'
@@ -64,3 +60,7 @@ sponsors:
       name: 'Discount Code: CST560'
       link: 'http://tailgatemax.com/checkout/cart/'
       img: /img/Sponsors/vostok.png
+    -
+      name: HealthSource Chiropractic
+      link: 'https://healthsourcechiro.com/'
+      img: /img/Sponsors/healthsource.jpg
