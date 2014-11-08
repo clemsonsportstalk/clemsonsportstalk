@@ -148,40 +148,7 @@
 
           })();
         </script>
-      <div class='txtC sponsored-by'>
-         <script>
-          (function() {
 
-          var sponsors = [
-            {% for sponsor in site.sponsors.primary %}
-              {link: '{{ sponsor.link }}', img: '{{ sponsor.img }}', name: '{{ sponsor.name | xml_escape }}'}
-              {% unless forloop.last %},{% endunless %}
-            {% endfor %}
-          ];
-
-          var sponsor = sponsors[Math.floor(Math.random() * sponsors.length)];
-          document.write(
-            "<a href='" + sponsor.link + "' title='" + sponsor.name + "' target='_blank'>" +
-              "<img class='round' src='" + sponsor.img + "'>" +
-            "</a>"
-          );
-
-          sponsors = [
-            {% for sponsor in site.sponsors.secondary %}
-              {link: '{{ sponsor.link }}', img: '{{ sponsor.img }}', name: '{{ sponsor.name | xml_escape }}'}
-              {% unless forloop.last %},{% endunless %}
-            {% endfor %}
-          ];
-
-          sponsor = sponsors[Math.floor(Math.random() * sponsors.length)];
-          document.write(
-            "<a href='" + sponsor.link + "' title='" + sponsor.name + "' target='_blank'>" +
-              "<img class='round' src='" + sponsor.img + "' style='margin: 3px;'>" +
-            "</a>"
-          );
-
-          })();
-        </script>
         </ul>
       
 
