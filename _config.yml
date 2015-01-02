@@ -34,7 +34,11 @@ sponsors:
       name: 'Baird'
       link: 'http://www.rwbaird.com/'
       img: '/img/Sponsors/baird.jpg'
-    
+    -
+      name: 'Dollar Shave Club'
+      link: 'http://www.dollarshaveclub.com/cstshow'
+      img: '/img/Sponsors/dollar-shave.jpg'
+
   secondary:
     -
       name: Edisto Outdoors
