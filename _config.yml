@@ -7,10 +7,6 @@ sponsors:
   banners:
   primary:
     -
-      name: Gentle Dentistry
-      link: 'http://www.peacefuldentistry.com'
-      img: /img/Sponsors/GDOG1.jpg
-    -
       name: Caughmans
       link: 'http://www.caughmanmeats.com'
       img: /img/Sponsors/Meat.jpg
@@ -30,10 +26,6 @@ sponsors:
       name: 'iSportz Athletics'
       link: 'http://www.ismartmobilemarketing.com/'
       img: '/img/Sponsors/isportz.png'
-    -
-      name: 'Baird'
-      link: 'http://www.rwbaird.com/'
-      img: '/img/Sponsors/baird.jpg'
     -
       name: 'Dollar Shave Club'
       link: 'http://www.dollarshaveclub.com/cstshow'
