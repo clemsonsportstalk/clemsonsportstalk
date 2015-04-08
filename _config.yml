@@ -30,7 +30,10 @@ sponsors:
       name: 'Dollar Shave Club'
       link: 'http://www.dollarshaveclub.com/cstshow'
       img: '/img/Sponsors/dollar-shave.jpg'
-
+    -
+      name: 'Cottingham Family Dentistry'
+      link: 'http://cottinghamfamilydentistry.com/'
+      img: '/img/Sponsors/cfd.jpg'
   secondary:
     -
       name: Edisto Outdoors
