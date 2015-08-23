@@ -40,6 +40,10 @@ sponsors:
       img: '/img/cfd.jpg'
   secondary:
     -
+      name: Lost Cajun
+      link: 'http://www.thelostcajun.com/locations/lexington-south-carolina'
+      img: /img/Sponsors/lostcajun.jpg
+    -
       name: Edisto Outdoors
       link: 'http://www.edistooutdoors.com'
       img: /img/Sponsors/EO1.jpg
