@@ -38,6 +38,10 @@ sponsors:
       name: 'Cottingham Family Dentistry'
       link: 'http://cottinghamfamilydentistry.com/'
       img: '/img/cfd.jpg'
+    -
+      name: 'Carolina Conditions'
+      link: 'http://www.carolinaconditions.com/'
+      img: '/img/carolinaconditions.png'
   secondary:
     -
       name: Lost Cajun
