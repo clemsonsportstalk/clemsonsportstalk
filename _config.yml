@@ -7,6 +7,10 @@ sponsors:
   banners:
   primary:
     -
+      name: Mosquito Joe
+      link: 'http://lakemurray.mosquitojoe.com/'
+      img: /img/MJoe.jpg
+    -
       name: Caughmans
       link: 'http://www.caughmanmeats.com'
       img: /img/download2.png
