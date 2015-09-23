@@ -42,6 +42,11 @@ sponsors:
       name: 'Carolina Conditions'
       link: 'http://www.carolinaconditions.com/'
       img: '/img/carolinaconditions.png'
+    -
+      name: 'Tiger Sports Shop'
+      link: 'http://www.tigersports.com/'
+      img: '/img/TigerSports.png'  
+    
   secondary:
     -
       name: Lost Cajun
