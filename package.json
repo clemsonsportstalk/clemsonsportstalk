@@ -1,0 +1,23 @@
+{
+  "name": "clemsonsportstalk",
+  "version": "1.0.0",
+  "description": "clemsonsportstalk.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "env $(cat .env | xargs) node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elswann/clemsonsportstalk.git"
+  },
+  "author": "Brad Dunbar <dunbarb2@gmail.com> (http://braddunbar.net/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elswann/clemsonsportstalk/issues"
+  },
+  "homepage": "https://github.com/elswann/clemsonsportstalk#readme",
+  "dependencies": {
+    "ozymandias": "github:braddunbar/ozymandias"
+  }
+}
