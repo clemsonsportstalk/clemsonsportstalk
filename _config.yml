@@ -22,15 +22,15 @@ sponsors:
       name: 'SakiTumi'
       link: 'http://sakifresh.com/'
       img: '/img/Sponsors/saki.jpg'
-     -
+    -
       name: 'Tiger Sports Shop'
       link: 'http://www.tigersports.com/'
-      img: '/img/TigerSports.png' 
+      img: '/img/TigerSports.png'
     -
       name: 'Carolina Conditions'
       link: 'http://www.carolinaconditions.com/'
       img: '/img/carolinaconditions.png'
- 
+
   secondary:
     -
       name: The Lost Cajun
