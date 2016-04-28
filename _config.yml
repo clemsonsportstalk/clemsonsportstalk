@@ -22,10 +22,10 @@ sponsors:
       name: 'SakiTumi'
       link: 'http://sakifresh.com/'
       img: '/img/Sponsors/saki.jpg'
-    -
-      name: 'iSportz Athletics'
-      link: 'http://www.ismartmobilemarketing.com/'
-      img: '/img/Sponsors/isportz.png'
+     -
+      name: 'Tiger Sports Shop'
+      link: 'http://www.tigersports.com/'
+      img: '/img/TigerSports.png' 
     -
       name: 'Dollar Shave Club'
       link: 'http://www.dollarshaveclub.com/cstshow'
@@ -34,11 +34,7 @@ sponsors:
       name: 'Carolina Conditions'
       link: 'http://www.carolinaconditions.com/'
       img: '/img/carolinaconditions.png'
-    -
-      name: 'Tiger Sports Shop'
-      link: 'http://www.tigersports.com/'
-      img: '/img/TigerSports.png'  
-    
+ 
   secondary:
     -
       name: The Lost Cajun
@@ -52,10 +48,6 @@ sponsors:
       name: Meridian Printing
       link: 'http://mbspromo.com/'
       img: /img/Sponsors/meridian.jpg
-    -
-      name: 'iSmart Mobile Marketing'
-      link: 'http://www.ismartmobilemarketing.com/'
-      img: '/img/Sponsors/ismart.png'
     -
       name: Lexington Medical Center
       link: 'http://www.lexmed.com/'
