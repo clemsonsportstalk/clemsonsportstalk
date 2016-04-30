@@ -30,6 +30,10 @@ sponsors:
       name: 'Carolina Conditions'
       link: 'http://www.carolinaconditions.com/'
       img: '/img/carolinaconditions.png'
+    -
+      name: 'Crossfit Iron Mary'
+      link: 'http://crossfitironmarys.com/'
+      img: '/img/CFIM.png'
 
   secondary:
     -
