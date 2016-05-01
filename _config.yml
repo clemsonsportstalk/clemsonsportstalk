@@ -34,7 +34,11 @@ sponsors:
       name: 'CFIM'
       link: 'http://crossfitironmarys.com/'
       img: '/img/CFIM.png'
-
+    -
+      name: 'Hobbs Group'
+      link: 'http://www.hobbscpa.com/'
+      img: '/img/hobbs.jpg'
+  
   secondary:
     -
       name: The Lost Cajun
