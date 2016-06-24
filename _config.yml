@@ -42,6 +42,10 @@ sponsors:
   
   secondary:
     -
+      name: Lakeside Construction
+      link: 'http://www.lakesidecola.com'
+      img: /img/LSC.jpg
+    -
       name: The Lost Cajun
       link: 'http://www.thelostcajun.com/locations/lexington-south-carolina'
       img: /img/lostcajun.jpg
