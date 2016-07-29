@@ -4,6 +4,10 @@ sponsors:
   banners:
   primary:
     -
+      name: Best Mattress
+      link: 'http://bestmattress.net/'
+      img: /img/BestMattress.jpg
+    -
       name: Mosquito Joe
       link: 'http://lakemurray.mosquitojoe.com/'
       img: /img/MJoe.jpg
