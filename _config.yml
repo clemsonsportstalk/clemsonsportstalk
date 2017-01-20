@@ -4,18 +4,6 @@ sponsors:
   banners:
   primary:
     -
-      name: Best Mattress
-      link: 'http://bestmattress.net/'
-      img: /img/BestMattress.jpg
-    -
-      name: Mosquito Joe
-      link: 'http://lakemurray.mosquitojoe.com/'
-      img: /img/MJoe.jpg
-    -
-      name: Rent Like A Champion
-      link: 'https://rentlikeachampion.com/'
-      img: /img/RLAC.png
-    -
       name: Caughmans
       link: 'http://www.caughmanmeats.com'
       img: /img/download2.png
@@ -45,14 +33,6 @@ sponsors:
       img: '/img/Sponsors/hobbs.jpg'
   
   secondary:
-    -
-      name: Lakeside Construction
-      link: 'http://www.lakesidecola.com'
-      img: /img/LSC.png
-    -
-      name: Seat Geek
-      link: 'https://seatgeek.com/clemson-tigers-football-tickets'
-      img: /img/SeatGeek.png
     -
       name: Cottingham Family Dentistry
       link: 'http://www.cottinghamfamilydentistry.com/'
