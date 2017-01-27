@@ -5,7 +5,14 @@ layout: default
 <div class='line'>
   <div class='unit size5of5 radio' style="background:white;">
 <h2>Live Show</h2>
-    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FClemsonSportsTalk%2Fvideos%2F10158277605105089%2F&width=400" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=522575747856680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     <p>
 <a href='http://www.patreon.com/clemsonsportstalk' target='_blank'>
 <img src='/img/CSTShirt.png' width='100%'>
