@@ -1,0 +1,11 @@
+#!/bin/sh -e
+
+# Clean up some lint
+standard --fix
+
+# Compile Assets
+./bin/postinstall
+
+# Client Tests
+ozy browserify test/client/index.js > public/js/test.js
+tape public/js/test.js | faucet

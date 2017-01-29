@@ -28,8 +28,17 @@
   },
   "homepage": "https://github.com/elswann/clemsonsportstalk#readme",
   "dependencies": {
+    "es6-promise": "4.0.5",
+    "object-assign": "4.1.1",
     "ozymandias": "github:braddunbar/ozymandias#v1.3.17",
     "react": "15.4.2",
-    "react-dom": "15.4.2"
+    "react-dom": "15.4.2",
+    "redux": "3.6.0"
+  },
+  "devDependencies": {
+    "deep-freeze": "0.0.1",
+    "faucet": "0.0.1",
+    "standard": "8.6.0",
+    "tape": "4.6.3"
   }
 }
