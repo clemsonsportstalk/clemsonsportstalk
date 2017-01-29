@@ -3,9 +3,19 @@
   "version": "1.0.0",
   "description": "clemsonsportstalk.com",
   "main": "index.js",
+  "cacheDirectories": [
+    "node_modules",
+    "public/assets"
+  ],
+  "engines": {
+    "node": "7.4.0",
+    "npm": "4.0.5"
+  },
   "scripts": {
-    "start": "env $(cat .env | xargs) node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "./bin/build",
+    "postinstall": "./bin/postinstall",
+    "start": "env $(cat .env | xargs) ./bin/start",
+    "test": "env $(cat .testenv | xargs) ./bin/test"
   },
   "repository": {
     "type": "git",
@@ -18,6 +28,8 @@
   },
   "homepage": "https://github.com/elswann/clemsonsportstalk#readme",
   "dependencies": {
-    "ozymandias": "github:braddunbar/ozymandias"
+    "ozymandias": "github:braddunbar/ozymandias#v1.3.17",
+    "react": "15.4.2",
+    "react-dom": "15.4.2"
   }
 }

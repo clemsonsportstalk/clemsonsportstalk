@@ -1,10 +1,14 @@
 'use strict'
 
-// Deps
-const ozymandias = require('ozymandias')
-
 // The App!
-const app = module.exports = ozymandias()
+const app = module.exports = require('ozymandias')()
+const {get} = require('koa-route')
 
-// Home
-app.get('/', (req, res) => res.render('index'))
+// Some settings.
+Object.assign(app.context, {
+  client: require('./client/component')
+})
+
+app.use(require('./layout'))
+
+app.use(get('/', function *() { this.react() }))
